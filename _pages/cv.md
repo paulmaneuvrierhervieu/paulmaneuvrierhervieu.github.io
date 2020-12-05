@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in History (Economic History), University of Caen Normandie, 2020.
+* M.S. in Human and Social Sciences (History), University of Caen Normandie, 2015.
+* BA in History, University of Caen Normandie, 2012.
 
 Work experience
 ======
