@@ -16,8 +16,8 @@ Previous Positions
 
 Honors & Distinctions
 ======
-* Award for the best young researcher presentation by the French Economic History Association (AFHE), 2019, Link.
-* Third prize (Marcel Lachiver) for the best Master's dissertation by the Association Histoire & Sociétés rurales, 2017, Link. 
+* Award for the best young researcher presentation by the French Economic History Association (AFHE), 2019, [Link](https://afhe.hypotheses.org/12495).
+* Third prize (Marcel Lachiver) for the best Master's dissertation by the Association Histoire & Sociétés rurales, 2017, [Link](http://www.unicaen.fr/actualites/prix-et-distinctions/prix-marcel-lachiver-3-jeunes-historiens-de-l-unicaen-recompenses-817075.kjsp).. 
 
 Education
 ======
