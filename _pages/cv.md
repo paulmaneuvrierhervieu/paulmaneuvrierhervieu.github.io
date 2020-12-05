@@ -14,6 +14,11 @@ Previous Positions
 * Teaching assistant at the University of Geneva, 2018-2020.
 * PhD candidate and teaching assistant, University of Caen Normandy, 2015-2018
 
+Honors & Distinctions
+======
+* Award for the best young researcher presentation by the French Economic History Association (AFHE), 2019, Link.
+* Third prize (Marcel Lachiver) for the best Master's dissertation by the Association Histoire & Sociétés rurales, 2017, Link. 
+
 Education
 ======
 * PhD in History (Economic History), University of Caen Normandie, 2020.
@@ -22,9 +27,8 @@ Education
 
 Visiting Position
 ======
-* Fall Quarter 2016: University of Chicago
-  Supervisor : Paul Cheney
-  
+* Fall Quarter 2016: University of Chicago (Supervisor : Paul Cheney)
+
 Work Experience
 ======
 * Boarding school prefect in Highschool, Caen, 2013-2015
