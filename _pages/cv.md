@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume & CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+You can download a full version of my CV [here]
 
 Previous Positions
 ======
