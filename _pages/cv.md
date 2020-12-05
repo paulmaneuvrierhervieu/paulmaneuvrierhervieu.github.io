@@ -9,51 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+Previous Positions
+======
+* Teaching assistant at the University of Geneva, 2018-2020.
+* PhD candidate and teaching assistant, University of Caen Normandy, 2015-2018
+
 Education
 ======
 * PhD in History (Economic History), University of Caen Normandie, 2020.
 * M.S. in Human and Social Sciences (History), University of Caen Normandie, 2015.
 * BA in History, University of Caen Normandie, 2012.
 
-Work experience
+Visiting Position
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall Quarter 2016: University of Chicago
+  Supervisor : Paul Cheney
+  
+Work Experience
+======
+* Boarding school prefect in Highschool, Caen, 2013-2015
+* Maître d'hôtel and waiter, Caen, 2010-2015
+* Usher and barman in a theatre, Caen, 2010-2013
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
