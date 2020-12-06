@@ -11,6 +11,6 @@ author_profile: true
 <br>[p.maneuvrier@unimi.it]</br>
 Università Degli Studi di Milano - La Statale
 <br>Dipartimento di Scienze Sociali e Politiche</br>
-Via Conservatorio 7<
+Via Conservatorio 7
 <br>20122 Milano</br></div>
 
