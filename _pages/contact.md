@@ -8,9 +8,9 @@ author_profile: true
 
 
 <div align="center">Paul Maneuvrier-Hervieu
-[p.maneuvrier@unimi.it]
-Università Degli Studi di Milano - La Statale
-Dipartimento di Scienze Sociali e Politiche
-Via Conservatorio 7<
-  20122 Milano</div>
+<br>[p.maneuvrier@unimi.it]</br>
+<br>Università Degli Studi di Milano - La Statale</br>
+<br>Dipartimento di Scienze Sociali e Politiche</br>
+<br>Via Conservatorio 7</br>
+<br>20122 Milano</br></div>
 
