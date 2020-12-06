@@ -10,20 +10,20 @@ author_profile: false
 ### 2020
 
 - Cédric Chambru & Paul Maneuvrier-Hervieu, _Historical Social Conflict Database_ website, [Link](https://www.unicaen.fr/hiscod/).
-<br>**Resume** : The _Historical Social Conflict Database_ (HiSCoD) is designed to provide academic researcher and general public with a set of resources for analysing social conflict from the late Middle Ages to the 19th century. HiSCoD currently includes information on nearly 10,000 social conflict events.</br>
+<br>**Resume** : The _Historical Social Conflict Database_ (HiSCoD) is designed to provide academic researcher and general public with a set of resources for analysing social conflict from the late Middle Ages to the 19th century. HiSCoD currently includes information on nearly 10,000 social conflict events.
 
 - Claude Dupuy & Paul Maneuvrier-Hervieu, Les Morts oubliés : Atlas Historique sur les soldats de la Seconde Guerre Mondiale. Online publication, [Link](https://mortsoublies.fr/).
-<br>**Resume** : The objective of this Atlas of “collective memory” is to make available maps and statistics relating to French soldiers who died during the Second World War.</br>
+<br>**Resume** : The objective of this Atlas of “collective memory” is to make available maps and statistics relating to French soldiers who died during the Second World War.
 
 ### 2018
 
 - Maneuvrier-Hervieu, Paul. « Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves », Annales de Normandie, vol. 68e année, no. 1, 2018, pp. 113-137. [Link](https://www.cairn.info/revue-annales-de-normandie-2018-1-page-113.htm).
-<br>**Resume** : Since the 1960s many articles have renewed our empirical and theoretical understanding of the slave trade. However, few of these studies examined ship’s logs. Using the advances made posssible by global microhistory, this articles encourages their study by illustrating the wealth of information they contain. A detailed examination of the log of an enigmatic Honfleur expedition under a neutral flag during the American Revolution renews our understanding of the slave trade and its international dimension that linked all continents of the Atlantic world.</br>
+<br>**Resume** : Since the 1960s many articles have renewed our empirical and theoretical understanding of the slave trade. However, few of these studies examined ship’s logs. Using the advances made posssible by global microhistory, this articles encourages their study by illustrating the wealth of information they contain. A detailed examination of the log of an enigmatic Honfleur expedition under a neutral flag during the American Revolution renews our understanding of the slave trade and its international dimension that linked all continents of the Atlantic world.
 
 ### 2017
 
 - Maneuvrier-Hervieu, Paul. « La Révolution française vue et vécue par un villageois du Pays de Caux », Histoire & Sociétés Rurales, vol. vol. 47, no. 1, 2017, pp. 137-180. [Link](https://www.cairn.info/revue-histoire-et-societes-rurales-2017-1-page-137.htm).
-<br>**Resume** : The French Revolution brought about an unprecedented upset in the daily life of the inhabitants of the countryside. However, there are extremely few writings by peasants which would allow the historian to grasp their experienced impressions and their innermost feelings. How did the peasants experience these revolutionary years? What were their feelings, their reactions, when confronted with local or national events? This paper relies on the publication of a little-known and rather mysterious source with the proposed goal of channelling the voice of a villager from Pays de Caux, through what he narrates from personal experience, and thus how he sees the events which took place under his very eyes.</br>
+<br>**Resume** : The French Revolution brought about an unprecedented upset in the daily life of the inhabitants of the countryside. However, there are extremely few writings by peasants which would allow the historian to grasp their experienced impressions and their innermost feelings. How did the peasants experience these revolutionary years? What were their feelings, their reactions, when confronted with local or national events? This paper relies on the publication of a little-known and rather mysterious source with the proposed goal of channelling the voice of a villager from Pays de Caux, through what he narrates from personal experience, and thus how he sees the events which took place under his very eyes.
 
 - Maneuvrier-Hervieu Paul, « Introduction and edition of : L’Abbé de Saint-Pierre, Préservatifs contre la famine [1725] et Police sur le pain pour éviter la famine [1734] », under the direction of Carole Dornier, Presses Universitaires de Caen, forthcoming, 2019. [Link](https://www.unicaen.fr/puc/sources/castel/doc/Economie/famine_intro.xml).
 
