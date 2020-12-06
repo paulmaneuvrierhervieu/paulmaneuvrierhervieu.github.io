@@ -13,7 +13,7 @@ You can download a full version of my CV [here]
 
 Previous Positions
 ======
-* Teaching assistant at the University of Geneva, 2018-2020.
+* Teaching assistant at the University of Geneva, Paul Bairoch Institute of Economic History, 2018-2020.
 * PhD candidate and teaching assistant, University of Caen Normandy, 2015-2018
 
 Honors & Distinctions
