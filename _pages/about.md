@@ -27,7 +27,7 @@ Research Interest
 • Global History • Agricultural History • Slave Trade
 • Political Economy  • Modern Archeology • Colonial History
 • Rural History • GIS • Digital Studies • Digital Huamnities </p>
-
+<br></br>
 **<p align="center">References**
 
 **<p align="center">Jean-Marc Moriceau**
