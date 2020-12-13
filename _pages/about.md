@@ -26,7 +26,8 @@ I am currently postdoctoral researcher at the University of Milan at the Departm
 <p align="center">• Economic History • Industrialization and Deindustrialization • Modern History • Atlantic Economy • Wages and Living Standards • European Economic History
 • Global History • Agricultural History • Slave Trade
 • Political Economy  • Modern Archeology • Colonial History
-• Rural History • GIS • Digital Studies • Digital Huamnities</p>
+• Rural History • GIS • Digital Studies • Digital Huamnities
+  <br></br></p>
 
 
 **<p align="center">References** 
