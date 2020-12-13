@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently postdoctoral researcher at the University of Milan at the Department of Political and Social Sciences working on an ERC project on the political consequences of deindustrialization under the supervision of Anne-Marie Jeannet. 
 
-<br>After getting a Master’s Degree in Medieval and Modern History, I defended my PhD thesis in December 2020 at the University of Caen Normandie. My thesis contributes to the literature on the long-term development and consequences of various shocks on a regional economy. I have built several datasets on food riots, trade, industries, wages and prices. I have also been investigating the effects of the Eden-Treaty on the process of industrialization. In addition, I am contributing to the literature on the origins of the French Revolution and the debate on its economic consequences.
+<br>After getting a Master’s Degree in Medieval and Modern History, I defended my PhD thesis in December 2020 at the University of Caen Normandie entitled:_Normandy in the Atlantic Economy during the Eighteenth Century. Production, Trade and Crises_. My thesis contributes to the literature on the long-term development and consequences of various shocks on a regional economy. I have built several datasets on food riots, trade, industries, wages and prices. I have also been investigating the effects of the Eden-Treaty on the process of industrialization. In addition, I am contributing to the literature on the origins of the French Revolution and the debate on its economic consequences.
 
 <br>I am also a data enthusiast and a map creator addict. During the first years of my PhD, I developed, alongside the digital cluster of the University of Caen-Normandy, using xml format, a database on food riots during the Eighteenth century, which will be available soon. In November 2020, with [Cédric Chambru](https://cedricchambru.github.io/) we published [HiSCoD](https://www.unicaen.fr/hiscod/) (_Historical Social Conflicts Database_) with the support of the Digital Cluster of the University of Caen-Normandy. This database is designed to provide academic researcher and general public with a set of resources for analysing social conflict from the late Middle Ages to the 19th century and currentlu includes information on nearly 10,000 social conflict events. 
 
@@ -24,25 +24,24 @@ Research Interest
 
 <center>
 
-• Modern History • Wages and Living Standards • European Economic History
+• Economic History • Industrialization and Deindustrialization • Modern History • Atlantic Economy • Wages and Living Standards • European Economic History
 • Global History • Agricultural History • Slave Trade
 • Political Economy  • Modern Archeology • Colonial History
-• Rural History • Geography and Cartography • Digital Studies </center>
+• Rural History • GIS • Digital Studies • Digital Huamnities </center>
 
-References
+**<center>References</center>**
 
-Jean-Marc Moriceau
-Professeur of Modern History 
-University of Caen-Normandy - MRSH
-email : jean-marc.moriceau@unicaen.fr // tel : +33.2.31.56.62.29
+<center>Jean-Marc Moriceau
+<br>Professeur of Modern History 
+<br>University of Caen-Normandy - MRSH
+<br>email : jean-marc.moriceau@unicaen.fr // tel : +33.2.31.56.62.29</br>
 
-Michel Biard
-Professor of Modern History 
-University of Rouen-Normandy
-email : michel.biard@univ-rouen.fr
+<br>Michel Biard
+<br>Professor of Modern History 
+<br>University of Rouen-Normandy
+<br>email : michel.biard@univ-rouen.fr</br>
 
-Paul Cheney
-Professor of European History 
-and the College University of Chicago
-email : cheney@chicago.edu // tel : +1 (773) 702-2631 
+<br>Paul Cheney
+<br>Professor of European History and the College University of Chicago
+<br>email : cheney@chicago.edu // tel : +1 (773) 702-2631</br></center>
 
