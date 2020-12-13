@@ -34,13 +34,13 @@ References**
 <br>Professeur of Modern History 
 <br>University of Caen-Normandy - MRSH
 <br>email : jean-marc.moriceau@unicaen.fr // tel : +33.2.31.56.62.29</br>
-<p align="center">
-**<br>Michel Biard**
+**<p align="center">
+<br>Michel Biard**
 <br>Professor of Modern History 
 <br>University of Rouen-Normandy
 <br>email : michel.biard@univ-rouen.fr</br>
-<p align="center">
-**<br>Paul Cheney**
+**<p align="center">
+<br>Paul Cheney**
 <br>Professor of European History and the College University of Chicago
 <br>email : cheney@chicago.edu // tel : +1 (773) 702-2631</br></p>
 
