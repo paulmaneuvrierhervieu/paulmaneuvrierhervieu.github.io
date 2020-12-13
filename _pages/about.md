@@ -27,9 +27,8 @@ I am currently postdoctoral researcher at the University of Milan at the Departm
 • Global History • Agricultural History • Slave Trade
 • Political Economy  • Modern Archeology • Colonial History
 • Rural History • GIS • Digital Studies • Digital Huamnities </p>
-<br></br>
+
 **<p align="center">References**
-<br></br>
 **<p align="center">Jean-Marc Moriceau**
 <br>Professeur of Modern History 
 <br>University of Caen-Normandy - MRSH
@@ -42,5 +41,5 @@ I am currently postdoctoral researcher at the University of Milan at the Departm
 
 **<p align="center">Paul Cheney**
 <br>Professor of European History and the College University of Chicago
-<br>email : cheney@chicago.edu // tel : +1 (773) 702-2631</br></p></center>
+<br>email : cheney@chicago.edu // tel : +1 (773) 702-2631</br></p>
 
