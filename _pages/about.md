@@ -19,7 +19,7 @@ redirect_from:
 Besides this, I started a project two years ago with Cédric Chambru focusing on wages and living standards in Normandy from the end of the Middle Ages to the 18th century. Together, we have built a new database on wages and prices to contribute to the debate on the Great Divergence in Europe by documenting the French case. We have also collected a new dataset for a demographic study.
 
 <br>In the spring 2020, I published in collaboration with Claude Dupuy (Professor at the University of Bordeaux) a [Digital Atlas](https://mortsoublies.fr/) on the French soldiers of the Second World War. All the files are in Creative Commons, feel free to use and share them ! </br>
-<br></br>
+
 
 **<p align="center">Research Interest**
 <br></br></p>
