@@ -33,7 +33,7 @@ Besides this, I started a project two years ago with Cédric Chambru focusing on
 **Jean-Marc Moriceau**
 <br>Professeur of Modern History 
 <br>University of Caen-Normandy - MRSH
-<br>email : jean-marc.moriceau@unicaen.fr // tel : +33.2.31.56.62.29</p>
+<br>email : jean-marc.moriceau@unicaen.fr // tel : +33.2.31.56.62.29
 
 **Michel Biard**
 <br>Professor of Modern History 
