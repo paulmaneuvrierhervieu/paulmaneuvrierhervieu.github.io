@@ -27,7 +27,7 @@ Research Interest
 • Political Economy  • Modern Archeology • Colonial History
 • Rural History • GIS • Digital Studies • Digital Huamnities </p>
 
-**<p align="center">References</center>**
+**<p align="center">References**
 
 **<center>Jean-Marc Moriceau**
 <br>Professeur of Modern History 
@@ -41,5 +41,5 @@ Research Interest
 
 **<br>Paul Cheney**
 <br>Professor of European History and the College University of Chicago
-<br>email : cheney@chicago.edu // tel : +1 (773) 702-2631</br></p>
+<br>email : cheney@chicago.edu // tel : +1 (773) 702-2631</br></p></center>
 
