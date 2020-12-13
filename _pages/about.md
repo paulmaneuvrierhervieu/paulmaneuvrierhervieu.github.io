@@ -27,8 +27,8 @@ Besides this, I started a project two years ago with Cédric Chambru focusing on
 • Rural History • GIS • Digital Studies • Digital Huamnities
   <br></br></p>
 
-<p align="center">
-**References** 
+**<p align="center">
+References** 
 <br></br>
 **<br>Jean-Marc Moriceau**
 <br>Professeur of Modern History 
