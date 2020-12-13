@@ -29,11 +29,12 @@ I am currently postdoctoral researcher at the University of Milan at the Departm
 • Rural History • GIS • Digital Studies • Digital Huamnities</p>
 
 
-**<p align="center">References**
-**Jean-Marc Moriceau**
+**<p align="center">References** 
+<br></br>
+**<p align="center">Jean-Marc Moriceau**
 <br>Professeur of Modern History 
 <br>University of Caen-Normandy - MRSH
-<br>email : jean-marc.moriceau@unicaen.fr // tel : +33.2.31.56.62.29</br>
+<br>email : jean-marc.moriceau@unicaen.fr // tel : +33.2.31.56.62.29</p>
 
 **<p align="center">Michel Biard**
 <br>Professor of Modern History 
