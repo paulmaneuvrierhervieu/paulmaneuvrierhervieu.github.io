@@ -27,8 +27,10 @@ I am currently postdoctoral researcher at the University of Milan at the Departm
 • Global History • Agricultural History • Slave Trade
 • Political Economy  • Modern Archeology • Colonial History
 • Rural History • GIS • Digital Studies • Digital Huamnities</p>
+
+
 **<p align="center">References**
-**<p align="center">Jean-Marc Moriceau**
+**Jean-Marc Moriceau**
 <br>Professeur of Modern History 
 <br>University of Caen-Normandy - MRSH
 <br>email : jean-marc.moriceau@unicaen.fr // tel : +33.2.31.56.62.29</br>
