@@ -22,26 +22,24 @@ I am currently postdoctoral researcher at the University of Milan at the Departm
 <br>In the spring 2020, I published in collaboration with Claude Dupuy (Professor at the University of Bordeaux) a [Digital Atlas](https://mortsoublies.fr/) on the French soldiers of the Second World War. All the files are in Creative Commons, feel free to use and share them !
 Research Interest
 
-<center>
-
-• Economic History • Industrialization and Deindustrialization • Modern History • Atlantic Economy • Wages and Living Standards • European Economic History
+<p align="center">• Economic History • Industrialization and Deindustrialization • Modern History • Atlantic Economy • Wages and Living Standards • European Economic History
 • Global History • Agricultural History • Slave Trade
 • Political Economy  • Modern Archeology • Colonial History
-• Rural History • GIS • Digital Studies • Digital Huamnities </center>
+• Rural History • GIS • Digital Studies • Digital Huamnities </p>
 
-**<center>References</center>**
+**<p align="center">References</center>**
 
-<center>Jean-Marc Moriceau
+**<center>Jean-Marc Moriceau**
 <br>Professeur of Modern History 
 <br>University of Caen-Normandy - MRSH
 <br>email : jean-marc.moriceau@unicaen.fr // tel : +33.2.31.56.62.29</br>
 
-<br>Michel Biard
+**<br>Michel Biard**
 <br>Professor of Modern History 
 <br>University of Rouen-Normandy
 <br>email : michel.biard@univ-rouen.fr</br>
 
-<br>Paul Cheney
+**<br>Paul Cheney**
 <br>Professor of European History and the College University of Chicago
-<br>email : cheney@chicago.edu // tel : +1 (773) 702-2631</br></center>
+<br>email : cheney@chicago.edu // tel : +1 (773) 702-2631</br></p>
 
