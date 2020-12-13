@@ -20,8 +20,9 @@ Besides this, I started a project two years ago with Cédric Chambru focusing on
 
 <p align="center"><br>In the spring 2020, I published in collaboration with Claude Dupuy (Professor at the University of Bordeaux) a [Digital Atlas](https://mortsoublies.fr/) on the French soldiers of the Second World War. All the files are in Creative Commons, feel free to use and share them ! </br></p>
 <br></br>
+
 **<p align="center">Research Interest**
-<br></br>
+<br></br></p>
 <p align="center">• Economic History • Industrialization and Deindustrialization • Modern History • Atlantic Economy • Wages and Living Standards • European Economic History
 • Global History • Agricultural History • Slave Trade
 • Political Economy  • Modern Archeology • Colonial History
