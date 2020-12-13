@@ -21,6 +21,7 @@ I am currently postdoctoral researcher at the University of Milan at the Departm
 
 <br>In the spring 2020, I published in collaboration with Claude Dupuy (Professor at the University of Bordeaux) a [Digital Atlas](https://mortsoublies.fr/) on the French soldiers of the Second World War. All the files are in Creative Commons, feel free to use and share them !
 Research Interest
+<br></br>
 
 <p align="center">• Economic History • Industrialization and Deindustrialization • Modern History • Atlantic Economy • Wages and Living Standards • European Economic History
 • Global History • Agricultural History • Slave Trade
