@@ -30,17 +30,17 @@ Besides this, I started a project two years ago with Cédric Chambru focusing on
 
 **<p align="center">References** 
 <br></br>
-**<p align="center">Jean-Marc Moriceau**
+**Jean-Marc Moriceau**
 <br>Professeur of Modern History 
 <br>University of Caen-Normandy - MRSH
 <br>email : jean-marc.moriceau@unicaen.fr // tel : +33.2.31.56.62.29</p>
 
-**<p align="center">Michel Biard**
+**Michel Biard**
 <br>Professor of Modern History 
 <br>University of Rouen-Normandy
 <br>email : michel.biard@univ-rouen.fr</br>
 
-**<p align="center">Paul Cheney**
+**<Paul Cheney**
 <br>Professor of European History and the College University of Chicago
 <br>email : cheney@chicago.edu // tel : +1 (773) 702-2631</br></p>
 
