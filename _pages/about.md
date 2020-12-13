@@ -26,10 +26,8 @@ I am currently postdoctoral researcher at the University of Milan at the Departm
 <p align="center">• Economic History • Industrialization and Deindustrialization • Modern History • Atlantic Economy • Wages and Living Standards • European Economic History
 • Global History • Agricultural History • Slave Trade
 • Political Economy  • Modern Archeology • Colonial History
-• Rural History • GIS • Digital Studies • Digital Huamnities </p>
-<br></br>
-**<p align="center">References**</p>
-<br></br>
+• Rural History • GIS • Digital Studies • Digital Huamnities <br></br></p>
+**<p align="center">References**
 **<p align="center">Jean-Marc Moriceau**
 <br>Professeur of Modern History 
 <br>University of Caen-Normandy - MRSH
