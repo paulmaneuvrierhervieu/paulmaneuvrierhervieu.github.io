@@ -6,7 +6,6 @@ author_profile: false
 ---
 
 ## Databases and Historical Atlas
-
 ### 2020
 
 - Cédric Chambru & Paul Maneuvrier-Hervieu, _Historical Social Conflict Database_ website, [Link](https://www.unicaen.fr/hiscod/).
@@ -16,7 +15,6 @@ author_profile: false
 <br>**Resume** : The objective of this Atlas of “collective memory” is to make available maps and statistics relating to French soldiers who died during the Second World War.
 
 ## Papers
-
 ### 2018
 
 - Maneuvrier-Hervieu, Paul. « Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves », Annales de Normandie, vol. 68e année, no. 1, 2018, pp. 113-137. [Link](https://www.cairn.info/revue-annales-de-normandie-2018-1-page-113.htm).
