@@ -7,7 +7,8 @@ author_profile: true
 
 #### Upcoming conferences, workshops and seminars
 
- *  2021 : World Economic History Conference, session organized by Guillaume Daudin and Loïc Charles, “New approaches to assess the consequences of trade agreements”.
+ *  2021 : With [Cédric Chambru](https://cedricchambru.github.io/), we organise a panel on social conflict in early modern Europe at the next Rural History Conference in Uppsala (23-26 August 2021). Please find the [CfP](https://cedricchambru.github.io/files/eurho_2021_cfp.pdf) here.
+ *  2022 : World Economic History Conference, session organized by Guillaume Daudin and Loïc Charles, “New approaches to assess the consequences of trade agreements”.
  *  August 2021 : European Rural History Organization, Uppsala. 
 
 #### Past events
