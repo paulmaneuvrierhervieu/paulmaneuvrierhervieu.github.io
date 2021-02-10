@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a full version of my CV [here]
+You can download a full version of my CV in [French](https://www.dropbox.com/s/nt8v6z5quadyzrf/cv_2021_french.pdf?dl=0) or in [English]
 
 Previous Positions
 ======
