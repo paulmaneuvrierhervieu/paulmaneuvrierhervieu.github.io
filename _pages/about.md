@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<head>{% raw %}{% seo %}{% endraw %}</head>>
+
 <br>I am currently a postdoctoral researcher at the [University of Milan at the Department of Political and Social Sciences](https://www.unimi.it/en/ugov/person/paul-maneuvrier) working on an ERC project [DESPO](https://cordis.europa.eu/project/id/853033/fr) on the political consequences of deindustrialization under the supervision of [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/). 
 
 <br>After getting a Master’s Degree in Medieval and Modern History, I defended my PhD thesis in December 2020 at the University of Caen Normandie entitled: _Normandy in the Atlantic Economy during the Eighteenth Century. Production, Trade and Crises_. My thesis contributes to the literature on the long-term development and consequences of various shocks on a regional economy. I have built several datasets on food riots, trade, industries, wages and prices. I have also been investigating the effects of the Eden-Treaty on the process of industrialization. In addition, I am contributing to the literature on the origins of the French Revolution and the debate on its economic consequences.
