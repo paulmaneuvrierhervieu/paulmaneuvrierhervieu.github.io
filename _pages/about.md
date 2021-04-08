@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /paulmaneuvrierhervieu.github.io
 title: "Paul Maneuvrier-Hervieu"
 excerpt: "About me"
 author_profile: true
