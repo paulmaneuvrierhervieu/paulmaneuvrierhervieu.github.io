@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<head>{% raw %}{% seo %}{% endraw %}</head>>
+<head>{% raw %}{% seo %}{% endraw %}</head>
 
 <br>I am currently a postdoctoral researcher at the [University of Milan at the Department of Political and Social Sciences](https://www.unimi.it/en/ugov/person/paul-maneuvrier) working on an ERC project [DESPO](https://cordis.europa.eu/project/id/853033/fr) on the political consequences of deindustrialization under the supervision of [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/). 
 
