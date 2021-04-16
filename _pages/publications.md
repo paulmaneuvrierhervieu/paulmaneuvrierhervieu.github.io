@@ -10,6 +10,7 @@ author_profile: false
 
 ## Databases and Historical Atlas
 ### 2020
+
 - Maneuvrier-Hervieu Paul. La Normandie dans l'économie Atlantique au 18e siècle : Production, commerce et crises. Thèse de doctorat, Histoire. Normandie Université, 2020. [Link](https://tel.archives-ouvertes.fr/tel-03195999).
 
 - Cédric Chambru & Paul Maneuvrier-Hervieu, _Historical Social Conflict Database_ website, [Link](https://www.unicaen.fr/hiscod/).
