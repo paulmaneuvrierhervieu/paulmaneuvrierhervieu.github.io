@@ -7,11 +7,11 @@ author_profile: false
 ## Dissertation
 ### 2020
 
+- Maneuvrier-Hervieu Paul. La Normandie dans l'économie Atlantique au 18e siècle : Production, commerce et crises. Thèse de doctorat, Histoire. Normandie Université, 2020. [Link](https://tel.archives-ouvertes.fr/tel-03195999).
+<br>**Resume** : After the long years of the Louis XIV’s wars, the return of peace in Europe and on the seas represented the beginning of a new era in the history of Normandy. Within a few years, ports were back on the road to growth thanks to thedevelopment of the colonies and the resumption of commercial activities. The massive arrival of colonial products and in particular of the "cotton king", brought about many changes in urban centres and countryside where spinning was booming. The development of the Atlantic economy and its importance for the Norman economy was, however,not without consequences. Even if it brought a certain ease and enabled many rural inhabitants to ensure their daily subsistence, it sealed at the same time the fate of a part of the population to the commercial activities and the vicissitudes of the textile industry, which was rapidly expanding. This dissertation relies on a quantitative and spatial analysis, with a focus on crises and subsistence riots, to study the consequences of the integration of Normandy in the Atlantic economy. Beyond a re-examination of the crisis that erupted between the Peace of Utrecht and the American War of Independence, this research focuses on two emblematic periods marked by major transformations. The signature in 1786 of the so-called Eden-Rayneval trade treaty between France and England, which put an end to the mercantilist policy in force since 1713, marked the beginning of the first period. The second is that of the crisis caused by the French Revolution, the revolt of the slaves in Saint-Domingue in 1791, and the return of the war on the seas in 1793. 
 
 ## Databases and Historical Atlas
 ### 2020
-
-- Maneuvrier-Hervieu Paul. La Normandie dans l'économie Atlantique au 18e siècle : Production, commerce et crises. Thèse de doctorat, Histoire. Normandie Université, 2020. [Link](https://tel.archives-ouvertes.fr/tel-03195999).
 
 - Cédric Chambru & Paul Maneuvrier-Hervieu, _Historical Social Conflict Database_ website, [Link](https://www.unicaen.fr/hiscod/).
 <br>**Resume** : The _Historical Social Conflict Database_ (HiSCoD) is designed to provide academic researcher and general public with a set of resources for analysing social conflict from the late Middle Ages to the 19th century. HiSCoD currently includes information on nearly 10,000 social conflict events.
