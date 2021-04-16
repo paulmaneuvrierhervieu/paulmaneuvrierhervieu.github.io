@@ -8,7 +8,7 @@ author_profile: true
 ### Working Papers
 
 - **From War to the “Doux Commerce” : the Commercial Consequences of Peace in Normandy**
-<br>This paper analyzes the economic consequences in Normandy of the peace treaty signed in 1783 and the signature of the Eden Agreement in 1786 between France and England. To approach the consequences of this “diplomatic” and “intellectual” Revolution I use data on commercial flows between Norman and England ports which allow for a classification of the kinds of goods imported and exported. I complete the commercial data with original archives from the juridiction of the Admiralty.</br>
+<br>This paper analyzes the economic consequences in Normandy of the peace treaty signed in 1783 and the signature of the Eden Agreement in 1786 between France and England. To approach the consequences of this “diplomatic” and “intellectual” Revolution I use data on commercial flows between Norman and England ports which allow for a classification of the kinds of goods imported and exported. I complete the commercial data with original archives from the juridiction of the Admiralty.
 <br>A version of this paper was presented at the French Modern Workshop of the University of Chicago and a second version at the annual conference of the French Economy History Association in Paris (December 2019). This presentation was awarded by the French Economic History Association [AFHE](https://afhe.hypotheses.org/category/actualite-de-lafhe/congres-actualites-de-lafhe/prix-communication-jeune-chercheur) for the best young researcher presentation in 2019. 
 
 
