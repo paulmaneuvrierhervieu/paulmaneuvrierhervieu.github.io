@@ -4,9 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+## Dissertation
+### 2020
+
 
 ## Databases and Historical Atlas
 ### 2020
+- Maneuvrier-Hervieu Paul. La Normandie dans l'économie Atlantique au 18e siècle : Production, commerce et crises. Thèse de doctorat, Histoire. Normandie Université, 2020. [Link](https://tel.archives-ouvertes.fr/tel-03195999).
 
 - Cédric Chambru & Paul Maneuvrier-Hervieu, _Historical Social Conflict Database_ website, [Link](https://www.unicaen.fr/hiscod/).
 <br>**Resume** : The _Historical Social Conflict Database_ (HiSCoD) is designed to provide academic researcher and general public with a set of resources for analysing social conflict from the late Middle Ages to the 19th century. HiSCoD currently includes information on nearly 10,000 social conflict events.
@@ -24,7 +28,7 @@ author_profile: false
 
 ### 2017
 
-- Maneuvrier-Hervieu, Paul. « La Révolution française vue et vécue par un villageois du Pays de Caux », Histoire & Sociétés Rurales, vol. vol. 47, no. 1, 2017, pp. 137-180. [Link](https://www.cairn.info/revue-histoire-et-societes-rurales-2017-1-page-137.htm).
+- Maneuvrier-Hervieu Paul. « La Révolution française vue et vécue par un villageois du Pays de Caux », Histoire & Sociétés Rurales, vol. vol. 47, no. 1, 2017, pp. 137-180. [Link](https://www.cairn.info/revue-histoire-et-societes-rurales-2017-1-page-137.htm).
 <br>**Resume** : The French Revolution brought about an unprecedented upset in the daily life of the inhabitants of the countryside. However, there are extremely few writings by peasants which would allow the historian to grasp their experienced impressions and their innermost feelings. How did the peasants experience these revolutionary years? What were their feelings, their reactions, when confronted with local or national events? This paper relies on the publication of a little-known and rather mysterious source with the proposed goal of channelling the voice of a villager from Pays de Caux, through what he narrates from personal experience, and thus how he sees the events which took place under his very eyes.
 
 - Maneuvrier-Hervieu Paul, Félix Mioulet, Louise Vizier, Mali Alzire, Elie Pichon, Lucas Desbenoit, Alexandre Le Lièvre, Merwan Sabih et Mathieu Le Diagon, « Mars 1789 : les « Normands ont la parole ». La mise par écrit des cahiers de doléances », in Bulletin de la Société Historique et Archéologique de Lisieux, n°84, 2e semestre 2017. [Link](http://www.societehistoriquedelisieux.fr/?p=7339).
