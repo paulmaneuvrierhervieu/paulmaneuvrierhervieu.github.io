@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 #### Upcoming conferences, workshops and seminars
-
- *  May 2021 : Séminaire Interne de l'Institut d'Histoire Economique Paul Bairoch, Université de Genève.
- *  May 2021 : With Anne-Marie Jeannet and Chiara Allegri, Workshop 'New Frontiers in Democracy Research: Tackling a Conceptual and Methodological Impasse, ECPR. 
- *  August 2021 : With [Cédric Chambru](https://cedricchambru.github.io/), we organise a panel on social conflict in early modern Europe at the next Rural History Conference in Uppsala (23-26 August 2021). Please find the [CfP](https://cedricchambru.github.io/files/eurho_2021_cfp.pdf) here.
- *  October 2021 : With Anne-Marie Jeannet and Chiara Allegri, American Political Science Association Meeting, Seattle. 
+ *  January 2022 : University of Lyon, LAHRA seminar. 
+ *  February 2022 : University Paris-Sorbonne. 
  *  2022 : World Economic History Conference, session organized by Guillaume Daudin and Loïc Charles, “New approaches to assess the consequences of trade agreements”.
 
 #### Past events
-
+*  October 2021 : With Anne-Marie Jeannet and Chiara Allegri, American Political Science Association Meeting, Seattle. 
+*  May 2021 : Séminaire Interne de l'Institut d'Histoire Economique Paul Bairoch, Université de Genève.
+*  May 2021 : With Anne-Marie Jeannet and Chiara Allegri, Workshop 'New Frontiers in Democracy Research: Tackling a Conceptual and Methodological Impasse, ECPR. 
+*  August 2021 : With [Cédric Chambru](https://cedricchambru.github.io/), we organise a panel on social conflict in early modern Europe at the next Rural History Conference in Uppsala (23-26 August 2021). Please find the [CfP](https://cedricchambru.github.io/files/eurho_2021_cfp.pdf) here.
 *  April 2021 : With Cédric Chambru, Economic History Society, Annual Conference, University of Warwick. 
 *  March 2021 : With Cédric Chambru, European Social Science History Conference, Netherlands, Leiden. 
 *  March 2021 : with Cédric Chambru we presented [HiSCoD](https://www.unicaen.fr/hiscod/pages/index.html) (Historical Social Conflict Database) in the seminar of Mireille Touzery, University of Paris-Créteil. 
