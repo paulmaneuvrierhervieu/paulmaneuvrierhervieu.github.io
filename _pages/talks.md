@@ -8,6 +8,7 @@ author_profile: true
 #### Upcoming conferences, workshops and seminars
  *  January 2022 : University of Lyon, LAHRA seminar. 
  *  February 2022 : University Paris-Sorbonne. 
+ *  June 2022 : European Rural History Conference, Uppsala. Session organized with Cédric Chambru on "Social conflicts in early modern Europe: New tools and new perspectives". 
  *  2022 : World Economic History Conference, session organized by Guillaume Daudin and Loïc Charles, “New approaches to assess the consequences of trade agreements”.
 
 #### Past events
