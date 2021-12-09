@@ -22,6 +22,7 @@ Previous Positions
 
 Honors & Distinctions
 ======
+* Dissertation prize awarded by the French Economic History Association (AFHE) and BnP-Baripas (Prix de thèse AFHE-BnP Paribas), 2021 [Link](https://afhe.hypotheses.org/14866#more-14866).  
 * Award for the best young researcher presentation by the French Economic History Association (AFHE), 2019, [Link](https://afhe.hypotheses.org/12495).
 * Third prize (Marcel Lachiver) for the best Master's dissertation by the Association Histoire & Sociétés rurales, 2017, [Link](http://www.unicaen.fr/actualites/prix-et-distinctions/prix-marcel-lachiver-3-jeunes-historiens-de-l-unicaen-recompenses-817075.kjsp).
 
