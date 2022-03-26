@@ -33,7 +33,6 @@ author_profile: false
 ### 2017
 
 - Maneuvrier-Hervieu Paul. « La Révolution française vue et vécue par un villageois du Pays de Caux », Histoire & Sociétés Rurales, vol. vol. 47, no. 1, 2017, pp. 137-180. [Link](https://www.cairn.info/revue-histoire-et-societes-rurales-2017-1-page-137.htm).
-<br>**Resume** : The French Revolution brought about an unprecedented upset in the daily life of the inhabitants of the countryside. However, there are extremely few writings by peasants which would allow the historian to grasp their experienced impressions and their innermost feelings. How did the peasants experience these revolutionary years? What were their feelings, their reactions, when confronted with local or national events? This paper relies on the publication of a little-known and rather mysterious source with the proposed goal of channelling the voice of a villager from Pays de Caux, through what he narrates from personal experience, and thus how he sees the events which took place under his very eyes.
 
 - Maneuvrier-Hervieu Paul, Félix Mioulet, Louise Vizier, Mali Alzire, Elie Pichon, Lucas Desbenoit, Alexandre Le Lièvre, Merwan Sabih et Mathieu Le Diagon, « Mars 1789 : les « Normands ont la parole ». La mise par écrit des cahiers de doléances », in Bulletin de la Société Historique et Archéologique de Lisieux, n°84, 2e semestre 2017. [Link](http://www.societehistoriquedelisieux.fr/?p=7339).
 
@@ -44,6 +43,11 @@ author_profile: false
 ### 2014
 
 - Maneuvrier-Hervieu Paul, « L’Amour Interdit : femmes et clercs dans le registre d’Eudes Rigaud (1248-1269) », Être Femme(s) en Normandie, Congrès de la Fédération des Sociétés historiques et Archéologiques de Normandie, Bellême, 2014, p. 469-476. [Link](https://www.dropbox.com/s/q2nebk61151cdql/maneuvrier-hervieu_amour_interdit_femmes_pretres_2014.pdf?dl=0).
+
+## Book chapters
+
+- Chambru Cédric, Paul Maneuvrier-Hervieu (2021). « Les révoltes en Aquitaine dans la base de données HiSCoD (Historical Social Conflict Database) ». In : Les révoltes populaires en Aquitaine du Moyen Âge à nos jours, A. Fernandez, J-P. Lefèvre et P. Robin (dir.), Actes du colloque du Samedi 11 et Dimanche 12 juin 2021, Musée d’Aquitaine de Bordeaux, Éditions d’Albret, 2021, p. 21-34. 
+
 
 ## Book Reviews 
 
