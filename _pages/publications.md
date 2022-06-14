@@ -28,7 +28,7 @@ author_profile: false
 - Maneuvrier-Hervieu, Paul. « Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves », Annales de Normandie, vol. 68e année, no. 1, 2018, pp. 113-137. [Link](https://www.cairn.info/revue-annales-de-normandie-2018-1-page-113.htm).
 <br>**Resume** : Since the 1960s many articles have renewed our empirical and theoretical understanding of the slave trade. However, few of these studies examined ship’s logs. Using the advances made posssible by global microhistory, this articles encourages their study by illustrating the wealth of information they contain. A detailed examination of the log of an enigmatic Honfleur expedition under a neutral flag during the American Revolution renews our understanding of the slave trade and its international dimension that linked all continents of the Atlantic world.
 
-- Maneuvrier-Hervieu Paul, « Introduction and edition of : L’Abbé de Saint-Pierre, Préservatifs contre la famine [1725] et Police sur le pain pour éviter la famine [1734] », under the direction of Carole Dornier, Presses Universitaires de Caen, forthcoming, 2019. [Link](https://www.unicaen.fr/puc/sources/castel/doc/Economie/famine_intro.xml).
+- Carole Donier, Maneuvrier-Hervieu Paul, « Écrits sur la famine », in Écrits sur l’économie, les finances et la fiscalité, in Les écrits de l’abbé Castel de Saint-Pierre, Carole Dornier (éd.), Caen, Presses universitaires de Caen (Fontes & Paginæ – Sources modernes), 2018. [Link]([https://www.unicaen.fr/puc/sources/castel/doc/Economie/famine_intro.xml](https://www.unicaen.fr/puc/sources/castel/doc/Economie/famine_intro.xml)).
 
 ### 2017
 
@@ -48,8 +48,8 @@ author_profile: false
 
 - Chambru Cédric, Paul Maneuvrier-Hervieu (2021). « Les révoltes en Aquitaine dans la base de données HiSCoD (Historical Social Conflict Database) ». In : Les révoltes populaires en Aquitaine du Moyen Âge à nos jours, A. Fernandez, J-P. Lefèvre et P. Robin (dir.), Actes du colloque du Samedi 11 et Dimanche 12 juin 2021, Musée d’Aquitaine de Bordeaux, Éditions d’Albret, 2021, p. 21-34. 
 
-
 ## Book Reviews 
+- ["Les Européens et les Antilles, XVIIe siècle-début XVIIIe siècle"](https://www.cairn.info/revue-annales-2021-4-page-847.htm) by Paul Cheney, published in Annales, Histoire, Sciences Sociales, 2021/4 (76e année), p. 847-849.
 
 - ["Cul-de-Sac. Patrimony, Capitalism and Slavery in French Saint-Domingue"](https://www.cairn.info/revue-histoire-et-societes-rurales-2018-1-page-199.htm) by Paul Cheney, published in Histoire & Sociétés Rurales, n°49, 1er semestre, 2018. 
 
