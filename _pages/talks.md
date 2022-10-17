@@ -6,13 +6,17 @@ author_profile: true
 ---
 
 #### Upcoming conferences, workshops and seminars
-
- *  June 2022 : European Rural History Conference, Uppsala. Session organized with Cédric Chambru on "Social conflicts in early modern Europe: New tools and new perspectives". 
- *  July 2022 : SASE (Society for the Advancement of Socio-Economics), Amsterdam.
- *  July 2022 : World Economic History Conference, session organized by Guillaume Daudin and Loïc Charles, “New approaches to assess the consequences of trade agreements”.
-
+*  November 2022 : Les lundis numériques de l'INHA, Paris. 
+*  November 2022 : Séminaire du Grhéco, EHESS, Paris. 
+*  November 2022 : Conférence, Maison Paysanne du Calvados, Saint-Pierre-sur-Dives.
+*  February 2023 : Conférence-débat, "Les mercredis des révolutions, Université Populaire, Paris. 
+*  March 2023 : IFLAME Seminar Series, IESEG School of Management, Paris. 
 
 #### Past events
+*  September 2022 : Politics and Society Workshop Series, "The Individual and Contextual Effects of Economic Scarcity on Political Integration", University of Duisburg.
+*  July 2022 : SASE (Society for the Advancement of Socio-Economics), Amsterdam.
+*  July 2022 : World Economic History Conference, session organized by Guillaume Daudin and Loïc Charles, “New approaches to assess the consequences of trade agreements”.
+*  June 2022 : European Rural History Conference, Uppsala. Session organized with Cédric Chambru on "Social conflicts in early modern Europe: New tools and new perspectives". 
 *  June 2022 : 70th Congress of the AFSE (Assofication Française d'Economie), Dijon. 
 *  January 2022 : University of Lyon, LAHRA seminar. 
 *  February 2022 : Economic History Seminar, organized by Anne Conchon, University Paris-Sorbonne. 
