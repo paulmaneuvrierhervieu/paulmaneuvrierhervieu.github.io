@@ -10,7 +10,8 @@ author_profile: true
 *  November 2022 : Séminaire du Grhéco, EHESS, Paris. 
 *  November 2022 : Conférence, Maison Paysanne du Calvados, Saint-Pierre-sur-Dives.
 *  February 2023 : Conférence-débat, "Les mercredis des révolutions, Université Populaire, Paris. 
-*  March 2023 : IFLAME Seminar Series, IESEG School of Management, Paris. 
+*  March 2023 : IFLAME Seminar Series, IESEG School of Management, Paris.
+*  April 2023 : Seminar ENS Ulm, Paris.  
 
 #### Past events
 *  September 2022 : Politics and Society Workshop Series, "The Individual and Contextual Effects of Economic Scarcity on Political Integration", University of Duisburg.
