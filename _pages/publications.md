@@ -24,8 +24,6 @@ author_profile: false
 
 
 ## Databases and Historical Atlas
-### 2020
-
 - _Historical Social Conflict Database_ (HiSCoD), with Cédric Chambru, [Link](https://www.unicaen.fr/hiscod/).
 
 - Les Morts oubliés : Atlas Historique sur les soldats de la Seconde Guerre Mondiale. Online publication with Claude Dupuy, [Link](https://mortsoublies.fr/).
