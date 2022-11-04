@@ -9,6 +9,7 @@ author_profile: true
 
 
 - **Introducing HiSCoD: a new gateway for the study of historical social conflict** with [Cédric Chambru](https://cedricchambru.github.io/) (University of Zurich). [Working paper available here](https://doi.org/10.5167/uzh-217109). Paper under review, _American Political Science Review_.
+
 Abstract: Social conflict are omnipresent in human societies and fulfil several essential functions to their development and transformation, including the creation of new norms and institutions. The Historical Social Conflict Database (HiSCoD) is an ongoing project designed to provide to scholars and society-at-large with a set of resources for analysing social conflict from the Middle Ages to the end of 19th century. Based on original archival research and existing repositories, the aim is to provide a global database on social conflict in past societies by collecting, aggregating, documenting and harmonising data. As of today, the database contains data more than 20,000 episodes of conflict, from the fiscal scuffle to urban revolts involving thousands of individuals. For every event, we provide information on the date, location, type, and, when possible, number of participants, women participation, and a summary of the course of action. Each event is individually documented by a hierarchical system of forms relying on the XML-EAD technology. This article describes the data collection process and presents some descriptive statistics.
 
 ### Work in progress
