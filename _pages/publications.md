@@ -7,19 +7,16 @@ author_profile: false
 ## Dissertation
 ### 2020
 
-- Maneuvrier-Hervieu Paul. La Normandie dans l'économie Atlantique au 18e siècle : Production, commerce et crises. Thèse de doctorat, Histoire. Normandie Université, 2020. Available online, [Link](https://tel.archives-ouvertes.fr/tel-03195999).
+- La Normandie dans l'économie Atlantique au 18e siècle : Production, commerce et crises. Thèse de doctorat, Histoire. Normandie Université, 2020. Available online, [Link](https://tel.archives-ouvertes.fr/tel-03195999). 
+I am currently working on a book manuscript based on my dissertation entitled _Across Seas and Countryside: an Environmental and Economic History of Normandy (1300-1850)_
 
 ## Papers
-### 2022
-- The Evolution of Wages in Early Modern Normandy (1600-1850), The Economic History Review, forthcoming (with Cédric Chambru)
-
-### 2021
+- The Evolution of Wages in Early Modern Normandy (1600-1850), The Economic History Review, forthcoming 2022 (with Cédric Chambru)
+-
 - La Normandie dans l'économie atlantique au XVIIIe siècle. Production, commerce et crises, Annales Historiques de la Révolution française, n°406 (4/2021), pp. 203-214. [Link](https://www.revues.armand-colin.com/histoire/annales-historiques-revolution-francaise/annales-historiques-revolution-francaise-no406-42021/normandie-leconomie-atlantique-au-xviiie-siecle).
 
-### 2018
 - Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves, Annales de Normandie, vol. 68e année, no. 1, 2018, pp. 113-137. [Link](https://www.cairn.info/revue-annales-de-normandie-2018-1-page-113.htm).
 
-### 2017
 - La Révolution française vue et vécue par un villageois du Pays de Caux, Histoire & Sociétés Rurales, vol. vol. 47, no. 1, 2017, pp. 137-180. [Link](https://www.cairn.info/revue-histoire-et-societes-rurales-2017-1-page-137.htm).
 
 
