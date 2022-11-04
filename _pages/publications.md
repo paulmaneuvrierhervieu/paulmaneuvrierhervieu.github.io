@@ -33,7 +33,7 @@ I am currently working on a book manuscript based on my dissertation entitled _A
 
 - Les révoltes populaires en Aquitaine dans la base de données HiSCoD, dans Les révoltes populaires en Aquitaine de la fin du Moyen Âge à nos jours, Alexandre Fernandez, Jean-Pierre Lefèvre et Pierre Robin (Dir.), Bordeaux, éditions d’Albret, 2021, p. 21-34 (with Cédric Chambru).
 
-- Écrits sur la famine,  Écrits sur l’économie, les finances et la fiscalité, in Les écrits de l’abbé Castel de Saint-Pierre, Carole Dornier (éd.), Caen, Presses universitaires de Caen (Fontes & Paginæ – Sources modernes), 2018 (with Carole Dornier). Available online [Link]([https://www.unicaen.fr/puc/sources/castel/doc/Economie/famine_intro.xml](https://www.unicaen.fr/puc/sources/castel/doc/Economie/famine_intro.xml))
+- Écrits sur la famine,  Écrits sur l’économie, les finances et la fiscalité, in Les écrits de l’abbé Castel de Saint-Pierre, Carole Dornier (éd.), Caen, Presses universitaires de Caen (Fontes & Paginæ – Sources modernes), 2018 (with Carole Dornier). Available online [Link](https://www.unicaen.fr/puc/sources/castel/doc/Economie/famine_intro.xml)
 
 
 ## Other publications
