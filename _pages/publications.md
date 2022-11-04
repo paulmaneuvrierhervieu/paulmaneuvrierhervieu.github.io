@@ -12,7 +12,7 @@ I am currently working on a book manuscript based on my dissertation entitled _A
 
 ## Papers
 - The Evolution of Wages in Early Modern Normandy (1600-1850), The Economic History Review, forthcoming 2022 (with Cédric Chambru)
--
+
 - La Normandie dans l'économie atlantique au XVIIIe siècle. Production, commerce et crises, Annales Historiques de la Révolution française, n°406 (4/2021), pp. 203-214. [Link](https://www.revues.armand-colin.com/histoire/annales-historiques-revolution-francaise/annales-historiques-revolution-francaise-no406-42021/normandie-leconomie-atlantique-au-xviiie-siecle).
 
 - Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves, Annales de Normandie, vol. 68e année, no. 1, 2018, pp. 113-137. [Link](https://www.cairn.info/revue-annales-de-normandie-2018-1-page-113.htm).
