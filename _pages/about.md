@@ -18,7 +18,7 @@ redirect_from:
 
 <br>I am also a data enthusiast and a map creator addict. In November 2020, I published with [Cédric Chambru](https://cedricchambru.github.io/) the Historical Social Conflict Database [HiSCoD](https://www.unicaen.fr/hiscod/). This database is designed to provide to academic researcher and general public a set of resources for analysing social conflict from the Middle Ages to the 19th century. 
 
-Research interests : European economic history; Economic development; Atlantic history; Medieval history; Environmental history; Industrialization; Living standards; Political history; Deindustrialization
+<br>Research interests : European economic history; Economic development; Atlantic history; Medieval history; Environmental history; Industrialization; Living standards; Political history; Deindustrialization
 
 
 
