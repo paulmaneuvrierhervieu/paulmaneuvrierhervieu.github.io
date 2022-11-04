@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-You can download my CV in [English (short version)](https://www.dropbox.com/s/xe3k50rnuht7ebz/cv_maneuvrier_hervieu_2022_english_short_version.pdf?dl=0) or in [French](https://www.dropbox.com/s/o0byp8o8lvelv7s/cv_2022_maneuvrier_hervieu_french_full_version.pdf?dl=0).
+You can download my CV in [English](https://www.dropbox.com/s/xe3k50rnuht7ebz/cv_maneuvrier_hervieu_2022_english_short_version.pdf?dl=0) (short version) or in [French](https://www.dropbox.com/s/o0byp8o8lvelv7s/cv_2022_maneuvrier_hervieu_french_full_version.pdf?dl=0).
 
 Current Position
 ======
