@@ -20,6 +20,9 @@ I am currently working on a book manuscript based on my dissertation entitled _A
 - La Révolution française vue et vécue par un villageois du Pays de Caux, Histoire & Sociétés Rurales, vol. vol. 47, no. 1, 2017, pp. 137-180. [Link](https://www.cairn.info/revue-histoire-et-societes-rurales-2017-1-page-137.htm).
 
 
+## Papers in the review process
+- Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict, Working paper series / Department of Economics 407, University of Zurich. (with Cédric Chambru). [Link](https://www.zora.uzh.ch/id/eprint/217109/). Revise & Resubmit _American Political Science Review_
+
 ## Databases and Historical Atlas
 - _Historical Social Conflict Database_ (HiSCoD), with Cédric Chambru, [Link](https://www.unicaen.fr/hiscod/).
 
