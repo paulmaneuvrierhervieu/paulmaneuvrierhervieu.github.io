@@ -11,7 +11,7 @@ author_profile: false
 I am currently working on a book manuscript based on my dissertation entitled _Across Seas and Countryside: an Environmental and Economic History of Normandy (1300-1850)_
 
 ## Papers
-- The Evolution of Wages in Early Modern Normandy (1600-1850), The Economic History Review, forthcoming 2022 (with Cédric Chambru)
+- The Evolution of Wages in Early Modern Normandy (1600-1850), The Economic History Review, Early View 2022 (with Cédric Chambru). [Link](https://onlinelibrary.wiley.com/doi/10.1111/ehr.13220)
 
 - La Normandie dans l'économie atlantique au XVIIIe siècle. Production, commerce et crises, Annales Historiques de la Révolution française, n°406 (4/2021), pp. 203-214. [Link](https://www.revues.armand-colin.com/histoire/annales-historiques-revolution-francaise/annales-historiques-revolution-francaise-no406-42021/normandie-leconomie-atlantique-au-xviiie-siecle).
 
