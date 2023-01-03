@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 #### Upcoming conferences, workshops and seminars
+*  April 2023 : Seminar ENS Ulm, Paris. 
+*  March 2023 : IFLAME Seminar Series, IESEG School of Management, Paris.
+*  February 2023 : Conférence-débat, "Les mercredis des révolutions, Université Populaire, Paris. 
+
+#### Past events
 *  November 2022 : Les lundis numériques de l'INHA, Paris. 
 *  November 2022 : Séminaire du Grhéco, EHESS, Paris. 
 *  November 2022 : Conférence, Maison Paysanne du Calvados, Saint-Pierre-sur-Dives.
-*  February 2023 : Conférence-débat, "Les mercredis des révolutions, Université Populaire, Paris. 
-*  March 2023 : IFLAME Seminar Series, IESEG School of Management, Paris.
-*  April 2023 : Seminar ENS Ulm, Paris.  
-
-#### Past events
 *  September 2022 : Politics and Society Workshop Series, "The Individual and Contextual Effects of Economic Scarcity on Political Integration", University of Duisburg.
 *  July 2022 : SASE (Society for the Advancement of Socio-Economics), Amsterdam.
 *  July 2022 : World Economic History Conference, session organized by Guillaume Daudin and Loïc Charles, “New approaches to assess the consequences of trade agreements”.
