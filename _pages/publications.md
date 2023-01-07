@@ -47,7 +47,7 @@ I am currently working on a book manuscript based on my dissertation entitled _A
 
 - Les Normands dans la « Guerre du blé » au XVIIIe siècle, Les Normands et la guerre. Actes du 49e Congrès de la Fédération des Sociétés Historiques et Archéologiques, Rouen, 15-18 octobre 2014, Textes réunis par Bernard Bodinier, Louviers, 2015, FSHAN, p. 175-183. [Link](https://www.dropbox.com/s/6c0et5mx9jujlco/maneuvrier-hervieu_normands_guerre_du_ble_2015.pdf?dl=0).
 
-- Maneuvrier-Hervieu Paul, « L’Amour Interdit : femmes et clercs dans le registre d’Eudes Rigaud (1248-1269) », Être Femme(s) en Normandie, Congrès de la Fédération des Sociétés historiques et Archéologiques de Normandie, Bellême, 2014, p. 469-476. [Link](https://www.dropbox.com/s/q2nebk61151cdql/maneuvrier-hervieu_amour_interdit_femmes_pretres_2014.pdf?dl=0).
+- « L’Amour Interdit : femmes et clercs dans le registre d’Eudes Rigaud (1248-1269) », Être Femme(s) en Normandie, Congrès de la Fédération des Sociétés historiques et Archéologiques de Normandie, Bellême, 2014, p. 469-476. [Link](https://www.dropbox.com/s/q2nebk61151cdql/maneuvrier-hervieu_amour_interdit_femmes_pretres_2014.pdf?dl=0).
 
 
 ## Book Reviews 
