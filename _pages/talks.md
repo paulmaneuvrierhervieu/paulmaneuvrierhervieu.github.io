@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 #### Upcoming conferences, workshops and seminars
-*  April 2023 : Seminar ENS Ulm, Paris. 
+*  April 2023 : Economic History Seminar ENS Ulm, Paris. 
+*  March 2023 : Workshop "Temporalités du Capitalisme", Paris Cité University. 
+*  March 2023 : GESI (Geography and Social Inequality) Seminar, University of Milan.
 *  March 2023 : IFLAME Seminar Series, IESEG School of Management, Paris.
 *  February 2023 : Conférence-débat, "Les mercredis des révolutions, Université Populaire, Paris. 
 
