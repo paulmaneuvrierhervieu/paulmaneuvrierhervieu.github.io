@@ -17,6 +17,9 @@ Abstract: _Social conflict are omnipresent in human societies and fulfil several
 - **The Hinterland Machine of Colonial Trade in Eighteenth Century Normandy** 
 
 - **Trade Shocks, Rural Protests and Political Behaviours in Revolutionary Normandy** with [Cédric Chambru](https://cedricchambru.github.io/) (University of Zurich)
+Abstract: _In 1787, the implementation of the Eden Treaty, one of the most important trade agreement of the 18th century, established for the first time a competitive system between France and England by reducing customs duties on many manufactured goods. In Normandy, one of the most industrialized regions of France, imports of cotton textiles from England caused a sharp decline in regional production and an economic crisis. Unable to sustain the competition with England, Norman manufacturers had to reduce their production, dismiss workers, or declare bankruptcy. In the following months, unemployment and vagrancy quickly rose and many social conflicts occurred in different parts of the province. 
+The objective of this paper is to explore the socio-economic consequences of this trade agreement on political behaviours during the French Revolution. Using data on industries and social conflicts at the parish level we first document that the Eden-Agreement had a large socio-economic impact on parishes specialised in the textile industry. We also found that localities hit by the trade shock were more likely to support the French Revolution and the Jacobin government. Overall, our paper suggests that the treaty signed between France and England to keep the peace after the American War of Independence played an important role in the adherence to the policy pursued by the government during the French Revolution._ 
+
 
 - **Institutions, Labour Regulations and Industrialisation in Normandy during the 18th century**
 
