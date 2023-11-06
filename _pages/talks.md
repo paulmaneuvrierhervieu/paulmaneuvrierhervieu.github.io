@@ -6,13 +6,15 @@ author_profile: true
 ---
 
 #### Upcoming conferences, workshops and seminars
+* June 2024 : Symposium, Ministry of Economics and Finance, Paris.
+* February 2024 : Workshop, University of Le Mans.
+
+#### Past events
 *  April 2023 : Economic History Seminar ENS Ulm, Paris. 
 *  March 2023 : Workshop "Temporalités du Capitalisme", Paris Cité University. 
 *  March 2023 : GESI (Geography and Social Inequality) Seminar, University of Milan.
 *  March 2023 : IFLAME Seminar Series, IESEG School of Management, Paris.
 *  February 2023 : Conférence-débat, "Les mercredis des révolutions, Université Populaire, Paris. 
-
-#### Past events
 *  November 2022 : Les lundis numériques de l'INHA, Paris. 
 *  November 2022 : Séminaire du Grhéco, EHESS, Paris. 
 *  November 2022 : Conférence, Maison Paysanne du Calvados, Saint-Pierre-sur-Dives.
