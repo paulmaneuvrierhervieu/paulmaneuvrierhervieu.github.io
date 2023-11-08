@@ -15,8 +15,11 @@ main:
   - title: "Conferences"
     url: /talks/
   
-  - title: "Media & Research dissemination"
+  - title: "Media"
     url: /media/
+
+  - title: "Dissemination of Research"
+    url: /dissemination/
     
   - title: "Contact"
     url: /contact/
