@@ -12,10 +12,10 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "News"
-    url: /news/
+  - title: "Conferences"
+    url: /talks/
   
-  - title: "Media"
+  - title: "Media & Research dissemination"
     url: /media/
     
   - title: "Contact"
