@@ -16,7 +16,7 @@ author_profile: false
 
 ### TV Documentary
 
-2023. Historical consultant for the TV documentary realized by Thierry Durand on the history of slavery in Normandy. This TV documentary entitled "Le souvenir dans la peau, esclavage en terre normande" was broadcasted the 19th October 2023 on France 3 Normandie and is available on replay [link](https://www.france.tv/france-3/normandie/la-france-en-vrai-normandie/5311947-le-souvenir-dans-la-peau-esclavage-en-terre-normande.html).
+- 2023 : Historical consultant for the TV documentary realized by Thierry Durand on the history of slavery in Normandy. This TV documentary entitled "Le souvenir dans la peau, esclavage en terre normande" was broadcasted the 19th October 2023 on France 3 Normandie and is available on replay [link](https://www.france.tv/france-3/normandie/la-france-en-vrai-normandie/5311947-le-souvenir-dans-la-peau-esclavage-en-terre-normande.html).
 
 ### Exhibitions
 
