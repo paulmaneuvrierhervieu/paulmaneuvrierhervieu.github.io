@@ -4,35 +4,37 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+
+## Papers
+
+- Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict, **American Political Science Review**, 2023, early view (with Cédric Chambru). [Link]([https://www.zora.uzh.ch/id/eprint/217109/](https://www.cambridge.org/core/journals/american-political-science-review/article/introducing-hiscod-a-new-gateway-for-the-study-of-historical-social-conflict/0A03A5D98B74DD6E9124EA4552F765AC). 
+
+- The Evolution of Wages in Early Modern Normandy (1600-1850), **The Economic History Review**, Early View 2022 (with Cédric Chambru). [Link](https://onlinelibrary.wiley.com/doi/10.1111/ehr.13220)
+
+- La Normandie dans l'économie atlantique au XVIIIe siècle. Production, commerce et crises, **Annales Historiques de la Révolution française**, n°406 (4/2021), pp. 203-214. [Link](https://www.revues.armand-colin.com/histoire/annales-historiques-revolution-francaise/annales-historiques-revolution-francaise-no406-42021/normandie-leconomie-atlantique-au-xviiie-siecle).
+
+- Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves, **Annales de Normandie**, vol. 68e année, no. 1, 2018, pp. 113-137. [Link](https://www.cairn.info/revue-annales-de-normandie-2018-1-page-113.htm).
+
+- La Révolution française vue et vécue par un villageois du Pays de Caux, **Histoire & Sociétés Rurales**, vol. vol. 47, no. 1, 2017, pp. 137-180. [Link](https://www.cairn.info/revue-histoire-et-societes-rurales-2017-1-page-137.htm).
+
 ## Dissertation
-### 2020
 
 - La Normandie dans l'économie Atlantique au 18e siècle : Production, commerce et crises. Thèse de doctorat, Histoire. Normandie Université, 2020. Available online, [Link](https://tel.archives-ouvertes.fr/tel-03195999). 
 I am currently working on a book manuscript based on my dissertation entitled _Across Seas and Countryside: an Environmental and Economic History of Normandy (1300-1850)_
 
-## Papers
-- The Evolution of Wages in Early Modern Normandy (1600-1850), The Economic History Review, Early View 2022 (with Cédric Chambru). [Link](https://onlinelibrary.wiley.com/doi/10.1111/ehr.13220)
+## Databases
 
-- La Normandie dans l'économie atlantique au XVIIIe siècle. Production, commerce et crises, Annales Historiques de la Révolution française, n°406 (4/2021), pp. 203-214. [Link](https://www.revues.armand-colin.com/histoire/annales-historiques-revolution-francaise/annales-historiques-revolution-francaise-no406-42021/normandie-leconomie-atlantique-au-xviiie-siecle).
-
-- Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves, Annales de Normandie, vol. 68e année, no. 1, 2018, pp. 113-137. [Link](https://www.cairn.info/revue-annales-de-normandie-2018-1-page-113.htm).
-
-- La Révolution française vue et vécue par un villageois du Pays de Caux, Histoire & Sociétés Rurales, vol. vol. 47, no. 1, 2017, pp. 137-180. [Link](https://www.cairn.info/revue-histoire-et-societes-rurales-2017-1-page-137.htm).
-
-
-## Papers in the review process
-- Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict, Working paper series / Department of Economics 407, University of Zurich. (with Cédric Chambru). [Link](https://www.zora.uzh.ch/id/eprint/217109/). Revise & Resubmit _American Political Science Review_
-
-## Databases and Historical Atlas
 - _Historical Social Conflict Database_ (HiSCoD), with Cédric Chambru, [Link](https://www.unicaen.fr/hiscod/).
 
-- Les Morts oubliés : Atlas Historique sur les soldats de la Seconde Guerre Mondiale. Online publication with Claude Dupuy, [Link](https://mortsoublies.fr/).
-
-
 ## Book Chapters 
+
+- Les mondes de la production en France, Nouvelle Histoire Économique et Sociale de la France, in _Nouvelle Histoire Economique et Sociale de la France_, (eds. Pierre-Cyrille Hautcoeur and Catherine Virlouvet), to be published in 2025.
+
+- Working time and Labour Conditions in Early Modern Normandy, _A Historical Casebook of Wage Formation: Wage Determination  and wage bargains of the pre industrial world (eds. Luca Mocarelli, Giulio Ongaro and Judy Stephenson), to be published in 2024. 
+  
 - Le sucre en Normandie : commerce, sites de transformations et ustensiles de raffinage en céramique du XVIe au milieu du XIXe siècle, Les céramiques de raffinage du sucre du XVIe au XIXe siècle. Productions, circulations et contextes d’usages dans l’espace transatlantique français, Sébastien Pauly (dir.), Presses Universitaires de Caen, forthcoming 2024 (with Patricia Moitrel, Anne Bocquet-Liénard, Serge le Maho et al. 
 
-- La Normandie, porte d’ouverture privilégiée pour l’économie atlantique », dans Les Normands, la traite et l’esclavage atlantiques : Honfleur, Le Havre, Rouen, Eric Saunier (dir), forthcoming 2023. 
+- La Normandie, porte d’ouverture privilégiée pour l’économie atlantique », _Les ports normands dans la traite atlantique (XVe-XXIe siècles)_, Éric Saunier (dir.), Silvana, 2023.
 
 - Les révoltes populaires en Aquitaine dans la base de données HiSCoD, dans Les révoltes populaires en Aquitaine de la fin du Moyen Âge à nos jours, Alexandre Fernandez, Jean-Pierre Lefèvre et Pierre Robin (Dir.), Bordeaux, éditions d’Albret, 2021, p. 21-34 (with Cédric Chambru).
 
@@ -51,6 +53,7 @@ I am currently working on a book manuscript based on my dissertation entitled _A
 
 
 ## Book Reviews 
+
 - ["Les Européens et les Antilles, XVIIe siècle-début XVIIIe siècle"](https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/article/bernard-michon-dir-les-europeens-et-les-antilles-xviie-siecledebut-xviiie-siecle-rennes-pur-2019-246-p/DDA22509F1F77E18AFBA4808AF0EE4E8) by Bernard Michon (dir.), published in Annales, Histoire, Sciences Sociales, 2021/4 (76e année), p. 847-849.
 
 - ["Cul-de-Sac. Patrimony, Capitalism and Slavery in French Saint-Domingue"](https://www.cairn.info/revue-histoire-et-societes-rurales-2018-1-page-199.htm) by Paul Cheney, published in Histoire & Sociétés Rurales, n°49, 1er semestre, 2018. 
