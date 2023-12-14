@@ -17,11 +17,6 @@ author_profile: false
 
 - La Révolution française vue et vécue par un villageois du Pays de Caux, **Histoire & Sociétés Rurales**, vol. vol. 47, no. 1, 2017, pp. 137-180. [Link](https://www.cairn.info/revue-histoire-et-societes-rurales-2017-1-page-137.htm).
 
-## Dissertation
-
-- La Normandie dans l'économie Atlantique au 18e siècle : Production, commerce et crises. Thèse de doctorat, Histoire. Normandie Université, 2020. Available online, [Link](https://tel.archives-ouvertes.fr/tel-03195999). 
-I am currently working on a book manuscript based on my dissertation entitled _Across Seas and Countryside: an Environmental and Economic History of Normandy (1300-1850)_
-
 ## Databases
 
 - _Historical Social Conflict Database_ (HiSCoD), with Cédric Chambru, [Link](https://www.unicaen.fr/hiscod/).
@@ -40,6 +35,10 @@ I am currently working on a book manuscript based on my dissertation entitled _A
 
 - Écrits sur la famine,  Écrits sur l’économie, les finances et la fiscalité, in Les écrits de l’abbé Castel de Saint-Pierre, Carole Dornier (éd.), Caen, Presses universitaires de Caen (Fontes & Paginæ – Sources modernes), 2018 (with Carole Dornier). Available online [Link](https://www.unicaen.fr/puc/sources/castel/doc/Economie/famine_intro.xml).
 
+## Dissertation
+
+- La Normandie dans l'économie Atlantique au 18e siècle : Production, commerce et crises. Thèse de doctorat, Histoire. Normandie Université, 2020. Available online, [Link](https://tel.archives-ouvertes.fr/tel-03195999). 
+I am currently working on a book manuscript based on my dissertation entitled _Across Seas and Countryside: an Environmental and Economic History of Normandy (1300-1850)_
 
 ## Other publications
 
