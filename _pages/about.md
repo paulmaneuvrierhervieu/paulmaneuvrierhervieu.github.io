@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-<br>I am an economic historian currently working at the [University of Milan at the Department of Political and Social Sciences](https://www.unimi.it/en/ugov/person/paul-maneuvrier). Since 2020, I am working on an ERC project [DESPO](https://cordis.europa.eu/project/id/853033/fr) on the political consequences of deindustrialization with [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/). My research lies at the intersection of economic history, archaeology, and political science in the long run. 
+<br>I am an economic historian currently working at the [University of Milan at the Department of Political and Social Sciences](https://www.unimi.it/en/ugov/person/paul-maneuvrier). Since 2020, I am working on an ERC project [(DESPO)](https://cordis.europa.eu/project/id/853033/fr) with [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/) on the political consequences of deindustrialization at the local level. Overall, my research lies at the intersection of economic history, archaeology, and political science in the long run. 
 
-My research contributes to the literature on the economic development in the lon rung. I also document the political, social and economic consequences of various shocks on a regional economy. Another part of my research focuses on the evolution of living standards from the Middle Ages to 19th century and the French industrialisation. 
+In my publications I contribute to the literature on the economic development in the long run and the Industrial Revolution. I also document the political, social and economic consequences of various shcoks on a regional economy as well as the evolution of living standards from the Middle Ages to the 19th century. 
 
 In 2021, I received the AFHE-BNP Paribas prize awarded by the French Economic History Association (AFHE) for the best dissertation in economic history. 
 
