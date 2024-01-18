@@ -7,7 +7,7 @@ author_profile: false
 
 ## Papers
 
-- Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict, **American Political Science Review**, 2023, early view (with Cédric Chambru). [Link]([https://www.zora.uzh.ch/id/eprint/217109/](https://www.cambridge.org/core/journals/american-political-science-review/article/introducing-hiscod-a-new-gateway-for-the-study-of-historical-social-conflict/0A03A5D98B74DD6E9124EA4552F765AC). 
+- Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict, **American Political Science Review**, 2023, early view (with Cédric Chambru). [Link](https://www.cambridge.org/core/journals/american-political-science-review/article/introducing-hiscod-a-new-gateway-for-the-study-of-historical-social-conflict/0A03A5D98B74DD6E9124EA4552F765AC). 
 
 - The Evolution of Wages in Early Modern Normandy (1600-1850), **The Economic History Review**, Early View 2022 (with Cédric Chambru). [Link](https://onlinelibrary.wiley.com/doi/10.1111/ehr.13220)
 
