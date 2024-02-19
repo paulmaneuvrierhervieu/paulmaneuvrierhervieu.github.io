@@ -22,10 +22,11 @@ Prior to joining the University of Milan to work on a ERC project, I worked at t
 
 I am also a waterpolo player and and an e-sport fan. 
 
-
-
 <br>**Research interests**: Economic history; Living standards; Atlantic history; Medieval history; Industrialization; Living standards; Political economy; Deindustrialization; Archeology
 
 
-
-
+<br>**What's new?**
+**2023-10**: Happy to announce the released of 'Le souvenir dans la peau, esclavage en terre normande' a TV documentary in which I was invited to present results from  my PhD. Available on replay on France Televisions [link](https://www.france.tv/france-3/normandie/la-france-en-vrai-normandie/5311947-le-souvenir-dans-la-peau-esclavage-en-terre-normande.html).
+**2023-06**: Glad to see my chapter 'La Normandie, porte d’ouverture privilégiée pour l’économie atlantique' published in the volume edited by E. Saunier and entitled 'Les ports normands dans la traite atlantique (XVe-XXIe siècles)'. 
+**2023-07**: My paper 'Introducing HiSCoD: A New Gateway for the Studyof Historical Social Conflict' (with Cédric Chambru) has been just accepted at the American Political Science Review.
+**2022-12**: My paper on the evolution of wages in early modern Normandy (with Cédric Chambru) is now available at The Economic History Review.
