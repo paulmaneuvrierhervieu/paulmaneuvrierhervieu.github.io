@@ -5,9 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 ### Book Manuscript
-- **Across Seas and Countryside: An Environmental and Economic History of Normandy (1300-1850)**. I am currently working on a revised and extended version of my PhD dissertation.
-     <ul><li><em>Media coverage:</em> <a href="https://www.ouest-france.fr/normandie/saint-pierre-en-auge-14170/saint-pierre-en-auge-la-normandie-au-xviiie-siecle-n-etait-pas-que-rurale-et-agricole-052851ec-6266-11ed-988e-462e4b8b6d96">Ouest-France</a></li></ul>
-        </li></ul>
+**Across Seas and Countryside: An Environmental and Economic History of Normandy (1300-1850)**. I am currently working on a revised and extended version of my PhD dissertation.
+
 ### Work in progress
 
 <ul><li> <strong>Trade Shocks and Political Behaviours in Revolutionary Normandy</strong> with <a href="https://cedricchambru.github.io/">Cédric Chambru (ENS Lyon)</a>
