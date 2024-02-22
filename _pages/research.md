@@ -8,7 +8,9 @@ author_profile: true
 - **Across Seas and Countryside: An Environmental and Economic History of Normandy (1300-1850)**. I am currently working on a revised and extended version of my PhD dissertation.
 
 ### Work in progress
-- **Trade Shocks and Political Behaviours in Revolutionary Normandy** with [Cédric Chambru](https://cedricchambru.github.io/) (ENS Lyon).
+
+<ul>
+  <li>**Trade Shocks and Political Behaviours in Revolutionary Normandy** with [Cédric Chambru](https://cedricchambru.github.io/) (ENS Lyon).
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
@@ -21,6 +23,9 @@ This paper delves into the intricate relationship between these socio-economic c
       <li>
         <em>Media coverage:</em> <a href="https://www.lemonde.fr/idees/article/2023/03/16/entre-1786-et-1789-les-ateliers-normands-sont-vite-passes-du-doux-commerce-a-la-crise-sociale_6165680_3232.html">Le Monde</a>
       </li>
+      </ul>
+        </li>
+</ul>
 
 - **A Tale of Two Datasets: Historical Research and Food Riots in Early Modern France** with [Cynthia Bouton]([https://liberalarts.tamu.edu/history/profile/cynthia-a-bouton/) (Texas A&M University) and [Cédric Chambru](https://cedricchambru.github.io/) (ENS Lyon)
 <details>
