@@ -22,10 +22,11 @@ To do so, we rely on the work of the HiSCoD project (Historical Social Conflict 
 
 - **Plagues, Wars and Wages in Late Medieval Normandy** with [Cédric Chambru](https://cedricchambru.github.io/) (ENS Lyon)
 
-- **Reassessing the 'Backlash' of Manufacturing Job Loss in US Presidential Elections** with [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/home) (University of Milan)
-
 - **Democratic Disservice: Social Stratification, Service Economy and Satisfaction with Democracy** with [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/home) (University of Milan) and [Leo Azzollini](https://sites.google.com/view/leoazzollini/) (University of Oxford)
 
+- **Reassessing the 'Backlash' of Manufacturing Job Loss in US Presidential Elections** with [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/home) (University of Milan)
+
+- **Trust in the Fields? Institutional Trust and the Rural-Urban Divide across European Regions (1980-2018)** with [Leo Azzollini](https://sites.google.com/view/leoazzollini/) (University of Oxford)
 
 
 
