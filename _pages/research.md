@@ -9,7 +9,7 @@ author_profile: true
 
 ### Work in progress
 
-<ul><li> <strong>Trade Shocks and Political Behaviours in Revolutionary Normandy</strong> (with <a href="https://cedricchambru.github.io/">Cédric Chambru (ENS Lyon)</a>)
+<ul><li> <strong>Trade Shocks and Political Behaviours in Revolutionary Normandy</strong> with <a href="https://cedricchambru.github.io/">Cédric Chambru (ENS Lyon)</a>
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
@@ -19,7 +19,7 @@ This paper delves into the intricate relationship between these socio-economic c
      <ul><li><em>Media coverage:</em> <a href="https://www.lemonde.fr/idees/article/2023/03/16/entre-1786-et-1789-les-ateliers-normands-sont-vite-passes-du-doux-commerce-a-la-crise-sociale_6165680_3232.html">Le Monde</a></li></ul>
         </li></ul>
         
-<ul><li> <strong>A Tale of Two Datasets: Historical Research and Food Riots in Early Modern France</strong> (with <a href="https://liberalarts.tamu.edu/history/profile/cynthia-a-bouton/">Cynthia Bouton (Texas A&M University</a>)  (and <a href="https://cedricchambru.github.io/">Cédric Chambru (ENS Lyon)</a>)
+<ul><li> <strong>A Tale of Two Datasets: Historical Research and Food Riots in Early Modern France</strong> with <a href="https://liberalarts.tamu.edu/history/profile/cynthia-a-bouton/">Cynthia Bouton (Texas A&M University)</a>  and <a href="https://cedricchambru.github.io/">Cédric Chambru (ENS Lyon)</a>
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
@@ -29,28 +29,28 @@ In the 1980s, scholars in Europe and the United States launched projects to stud
 To do so, we rely on the work of the HiSCoD project (Historical Social Conflict Database; https://www.unicaen.fr/hiscod), which gathers information on more than 20,000 episodes of social conflicts from the Middle Ages to the mid-19th century. Our objective is to systematically study the extent to which these two projects, which relied on similar historical sources, resulted in the creation of comparable datasets.  By comparing the original records established by the two researchers, we analyse the role played by errors of palaeography, categorisation, coding, or interpretation in the analysis of the same event. We further include one additional regional sample created to expand the initial work of Jean Nicolas (Maneuvrier-Hervieu 2020) to discuss how more thorough investigations in the archives might help us revise Nicolas’ and Bouton’s conclusions about the dynamics and trends in food riots in Normandy. Overall, we highlight why and how inadvertent errors of sampling by historians could threaten the reliability of historical research and the findings of studies using quantitative historical data.</em> </p></details>
         </li></ul>
 
-<ul><li> <strong>Plagues, Wars and Wages in Late Medieval Normandy</strong> (with <a href="https://cedricchambru.github.io/">Cédric Chambru (ENS Lyon)</a>)
+<ul><li> <strong>Plagues, Wars and Wages in Late Medieval Normandy</strong> with <a href="https://cedricchambru.github.io/">Cédric Chambru (ENS Lyon)</a>
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
         <em>In this paper, we propose to analyse the evolution of Norman wages from 1300 to 1600. We rely on new data on wages and prices to estimate series of wages for daily rural and urban skilled and unskilled labourers as well as a tentative series for male annual labourers. In Normandy as elsewhere in Europe, the Black Death and the plague of 1361 initiated a severe demographic crisis. Beyond plagues, Normandy had also to face the consequences of the Hundred Year War between England and France. The effect of the occupation of Normandy by English troops between 1417-9 and 1450 is, however, quite uncertain. The constant demand of supplies certainly drove increases in crop prices, but the demand for craftsmen to construct new fortifications required to hold the territory also plausibly increased labour scarcity and wages. Using data on population derived from hearth rolls for various years and spatial variations in the exposure to the English occupation, we try to understand how plagues, wars and labour scarcity articulated and could explain the formation/evolution of wages during the 15th century in Normandy.</em> </p></details>
         </li></ul>
         
-<ul><li> <strong>Trust in the Fields? Institutional Trust and the Rural-Urban Divide across European Regions (1980-2018)</strong> (with <a href="https://sites.google.com/view/leoazzollini/">Leo Azzollini (University of Oxford)</a>)
+<ul><li> <strong>Trust in the Fields? Institutional Trust and the Rural-Urban Divide across European Regions (1980-2018)</strong> with <a href="https://sites.google.com/view/leoazzollini/">Leo Azzollini (University of Oxford)</a>
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
         <em>How does the classic “urban-rural” divide (Lipset and Rokkan, 1967) shape/affect trust towards institutions? While agricultural policies historically played a central role in European integration, recent studies indicate lower political trust in national governments among rural rather than urban residents (Mitsch et al., 2001). In this paper, we examine empirically if a similar trend exists regarding trust in the European Union (EU) linking the urban-rural and integration-demarcation cleavages (Kriesi et al., 2006). This study investigates the relationship between trust in EU institutions and place of residence, alongside socio-economic factors such as the regional share of agricultural employment. Analysing 38 waves of Eurobarometer data from 1980 to 2018 across 14 European countries, 136 regions, and around 400,000 EU citizens, our research reveals that residing in rural or small-town areas correlates with a statistically significant but minor decrease in trust in the EU compared to urban areas (−4% standard deviation). However, this urban-rural trust gap varies with socio-economic conditions, particularly the prevalence of agricultural employment in regions. In areas with fewer agricultural jobs, the urban-rural trust disparity widens (−6% SD), but it becomes insignificant in regions where agricultural employment is more prevalent. This effect extends to individuals with lower levels of education, whose trust in the EU significantly rises (+20% SD) in regions with a higher share of agricultural jobs, relatively to areas where the latter is lower. Overall, our results suggest that agricultural employment is a key factor in moderating the urban-rural divide in terms of trust in institutions.</em> </p></details>
         </li></ul>
 
-<ul><li> <strong>Democratic Disservice: Social Stratification, Service Economy and Satisfaction with Democracy</strong> (with <a href="https://sites.google.com/site/amjeannet/home"> Anne-Marie Jeannet (University of Milan)</a>) (and <a href="https://sites.google.com/view/leoazzollini/">Leo Azzollini (University of Oxford)</a>)
+<ul><li> <strong>Democratic Disservice: Social Stratification, Service Economy and Satisfaction with Democracy</strong> with <a href="https://sites.google.com/site/amjeannet/home"> Anne-Marie Jeannet (University of Milan)</a> and <a href="https://sites.google.com/view/leoazzollini/">Leo Azzollini (University of Oxford)</a>
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
         <em></em> </p></details>
         </li></ul>
 
-<ul><li> <strong>Reassessing the 'Backlash' of Manufacturing Job Loss in US Presidential Elections</strong> (with <a href="https://sites.google.com/site/amjeannet/home"> Anne-Marie Jeannet (University of Milan)</a>)
+<ul><li> <strong>Reassessing the 'Backlash' of Manufacturing Job Loss in US Presidential Elections</strong> with <a href="https://sites.google.com/site/amjeannet/home"> Anne-Marie Jeannet (University of Milan)</a>
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
