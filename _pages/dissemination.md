@@ -9,7 +9,7 @@ author_profile: false
 #### Upcoming conferences
 
 #### Past events
-- Augsut 2023 : Conférence: "Dans l'atelier de l'historien. Cartogrpahier et étudier les orutes et les chemins en Normandie au 18e siècle", Foyer Rural du Billot, France.
+- Augsut 2023 : Conférence: "Dans l'atelier de l'historien. Cartographier et étudier les routes et les chemins en Normandie au 18e siècle", Foyer Rural du Billot, France.
 - February 2023 : Roundtable : "La faim justifie-t-elle la révolution? ". This event was orgnized by the Société d'Histoire du XIXe siècle and the Université Populaire de la mairie du 18e arrondissement and was recorded. It is available as a poadcast on Paroles d'Histoire [Link](parolesdhistoire.fr/index.php/2023/03/27/279-la-faim-justifie-t-elle-les-revolutions-les-mercredis-des-revolutions/).
 - November 2022 : Conférence : "La Normandie dans l'économie Atlantique au 18e siècle", Maison Paysanne du Calvados, Saint-Pierre-sur-Dives, France.
 - August 2022 : Conférence : "Les campagnes normandes et la Révolution française", Foyer Rural du Billot, France. 
