@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 #### Upcoming conferences, workshops and seminars
+* July 2025 : World Economic History Conference (WEHC)
+
+#### Past events
 * June 2024 : Symposium, Ministry of Economics and Finance, Paris.
 * March 2024 : GESI (Geography and Social Inequality) Seminar, Univeristy of Milan.
 * February 2024 : Workshop, University of Le Mans.
-
-#### Past events
 *  April 2023 : Economic History Seminar ENS Ulm, Paris. 
 *  March 2023 : Workshop "Temporalités du Capitalisme", Paris Cité University. 
 *  March 2023 : GESI (Geography and Social Inequality) Seminar, University of Milan.
