@@ -7,6 +7,7 @@ author_profile: true
 
 #### Upcoming conferences, workshops and seminars
 * July 2025 : World Economic History Conference (WEHC)
+* March 2025 : City of Caen 
 
 #### Past events
 * June 2024 : Symposium, Ministry of Economics and Finance, Paris.
