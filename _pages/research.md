@@ -7,18 +7,27 @@ author_profile: true
 ### Publications 
 - [Cédric, Chambru](https://cedricchambru.github.io/) and Maneuvrier-Hervieu, Paul (2024). Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict, _American Polticial Science Review_, 118(2), pp. 1084-1091, doi: [10.1017/S000305542300076X](https://doi.org/10.1017/S000305542300076X). [Website](https://mrsh.unicaen.fr/hiscod/accueil.html) | [Raw data](https://github.com/hiscod/hiscod-project) | [Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HGFLGK)
  <ul><li><em>Media coverage:</em> <a href="https://www.lemonde.fr/idees/article/2021/05/20/deux-siecles-de-revoltes-populaires-decryptees-le-gilet-jaune-se-porte-depuis-bien-longtemps_6080797_3232.html">Le Monde</a> and <a href="https://www.ouest-france.fr/normandie/caen-14000/entretien-hiscod-la-base-de-donnees-sur-les-emeutes-developpee-a-caen-d995b80e-003b-11ec-89f6-98e781273c08">Ouest-France</a> </li></ul>
-- [Cédric, Chambru](https://cedricchambru.github.io/) and Maneuvrier-Hervieu, Paul (2023). The Evolution of Wages in Early Modern Normandy (1600-1850), _The Economic History Review_, 76(3), pp. 917-940. doi: [10.1093/ereh/heac017](https://doi.org/10.1093/ereh/heac017)
+ 
+- [Cédric, Chambru](https://cedricchambru.github.io/) and Maneuvrier-Hervieu, Paul (2023). The Evolution of Wages in Early Modern Normandy (1600-1850), _The Economic History Review_, 76(3), pp. 917-940. doi:[10.1093/ereh/heac017](https://doi.org/10.1093/ereh/heac017)
+  
 - Maneuvrier-Hervieu, Paul (2021). La Normandie dans l'économie atlantique au XVIIIe siècle. production, commerce et crises, _Annales Historiques de la Révolution française_, 406(4),pp. 203-214. [Link](https://www.revues.armand-colin.com/histoire/annales-historiques-revolution-francaise/annales-historiques-revolution-francaise-no406-42021/normandie-leconomie-atlantique-au-xviiie-siecle).
  <ul><li><em>Media coverage:</em> <a href="https://www.ouest-france.fr/normandie/saint-pierre-en-auge-14170/saint-pierre-en-auge-la-normandie-au-xviiie-siecle-n-etait-pas-que-rurale-et-agricole-052851ec-6266-11ed-988e-462e4b8b6d96">Ouest-France</a> | Podcast: [Cause commune Radio](https://cause-commune.fm/podcast/histoire-en-roue-libre-30/)
+  
 - Maneuvrier-Hervieu, Paul (2018). Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves, _Annales de Normandie_, 68(1), pp. 113-137. doi: [10.3917/annor.681.0113]( https://doi.org/10.3917/annor.681.0113)
+  
 - Maneuvrier-Hervieu, Paul (2017). La Révolution française vue et vécue par un villageois du Pays de Caux, _Histoire & Sociétés Rurales_, 47(1), pp. 137-180. doi: [10.3917/hsr.047.0137](https://doi.org/10.3917/hsr.047.0137)
 
 ### Book Chapters 
 - Maneuvrier-Hervieu, Paul, and [François, Rivière](https://cv.hal.science/francois-riviere) (2025). Les mondes de la production en France, _Nouvelle Histoire Économique et Sociale de la France_, (eds. Pierre-Cyril Hautcoeur and Catherine Virlouvet), Passés Composés. Forthcoming, September 2025.
+  
 - Maneuvrier-Hervieu, Paul, and [Cédric, Chambru](https://cedricchambru.github.io/) (2025). Working Time, Holidays, and Labour Conditions in Early Modern Normandy, _A Historical Casebook of Wage Formation: Wage Determination and wage bargains of the pre industrial world_, (eds. Luca Mocarelli, Giulio Ongaro and Judy Stephenson). Forthcoming 2025.
-- [Anne, Bocquet-Liénard](https://cv.hal.science/anne-bocquet-lienard), Patricia, Moitrel, Paul, Maneuvrier-Hervieu, et. al. (2025), Le Sucre en Normandie : commerce, sites de transformations et ustensiles de raffinage en céramique du XVIe au milieu du XIXe siècle, _Les céramiques de raffinage du sucre du XVIe au XIXe siècle. Productions, circulations et contextes d'usages dans l'espace transatlantique français_, (dir. Sébastien Pauly), Presses Universitaires de Caen. Forthcoming, 2025. 
+  
+- [Anne, Bocquet-Liénard](https://cv.hal.science/anne-bocquet-lienard), Patricia, Moitrel, Paul, Maneuvrier-Hervieu, et. al. (2025), Le Sucre en Normandie : commerce, sites de transformations et ustensiles de raffinage en céramique du XVIe au milieu du XIXe siècle, _Les céramiques de raffinage du sucre du XVIe au XIXe siècle. Productions, circulations et contextes d'usages dans l'espace transatlantique français_, (dir. Sébastien Pauly), Presses Universitaires de Caen. Forthcoming, 2025.
+  
 - Maneuvrier-Hervieu, Paul (2023). La Normandie, porte d'ouverture privilégiée pour l'économie atlantique, _Les ports normands dans la traite atlantique (XVe-XXIe siècles), (dir. Eric Saunier), Silvana Editoriale,  pp. 121-134.
+  
 - Maneuvrier-Hervieun, Paul, and [Cédric, Chambru](https://cedricchambru.github.io/) (2021). Les révoltes populaires en Aquitaine dans la base de données HiSCoD, _Les révoltes populaires en Aquitaine de la fin du Moyen Âge à nos jours, (dir. Alexandre Fernandez, Jean-Pierre Lefèvre, Pierre Robin), éditions d'Albret, pp. 21-34.
+  
 - Maneuvrier-Hervieu, Paul and [Carole, Dornier](https://obtic.huma-num.fr/obvil-web/obvil/annuaire/carole-dornier) (2018). « Écrits sur la famine », _Écrits sur l’économie, les finances et la fiscalité, in Les écrits de l’abbé Castel de Saint-Pierre_, (ed. Carole Dornier),  Presses universitaires de Caen (Fontes & Paginæ – Sources modernes), doi: [10.51203/sources.puc.000094](https://doi.org/10.51203/sources.puc.000094)
 
 ### Work in progress
