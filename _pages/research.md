@@ -30,7 +30,7 @@ author_profile: true
 
 ### Work in progress
 
-<ul><li> Trade Shocks and Political Behaviours in Revolutionary Normandy, with <a href="https://cedricchambru.github.io/">Cédric Chambru (ENS Lyon)</a>
+<ul><li> Trade Shocks and Political Behaviours in Revolutionary Normandy, with <a href="https://cedricchambru.github.io/">Cédric Chambru</a>
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
@@ -38,7 +38,7 @@ author_profile: true
      <ul><li><em>Media coverage:</em> <a href="https://www.lemonde.fr/idees/article/2023/03/16/entre-1786-et-1789-les-ateliers-normands-sont-vite-passes-du-doux-commerce-a-la-crise-sociale_6165680_3232.html">Le Monde</a></li></ul>
         </li></ul>
         
-<ul><li> A Tale of Two Datasets: Historical Research and Food Riots in Early Modern France, with <a href="https://liberalarts.tamu.edu/history/profile/cynthia-a-bouton/">Cynthia Bouton (Texas A&M University)</a>  and <a href="https://cedricchambru.github.io/">Cédric Chambru (ENS Lyon)</a>
+<ul><li> A Tale of Two Datasets: Historical Research and Food Riots in Early Modern France, with <a href="https://liberalarts.tamu.edu/history/profile/cynthia-a-bouton/">Cynthia Bouton</a>  and <a href="https://cedricchambru.github.io/">Cédric Chambru)</a>
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
@@ -48,14 +48,14 @@ In the 1980s, scholars in Europe and the United States launched projects to stud
 To do so, we rely on the work of the HiSCoD project (Historical Social Conflict Database; https://www.unicaen.fr/hiscod), which gathers information on more than 20,000 episodes of social conflicts from the Middle Ages to the mid-19th century. Our objective is to systematically study the extent to which these two projects, which relied on similar historical sources, resulted in the creation of comparable datasets.  By comparing the original records established by the two researchers, we analyse the role played by errors of palaeography, categorisation, coding, or interpretation in the analysis of the same event. We further include one additional regional sample created to expand the initial work of Jean Nicolas (Maneuvrier-Hervieu 2020) to discuss how more thorough investigations in the archives might help us revise Nicolas’ and Bouton’s conclusions about the dynamics and trends in food riots in Normandy. Overall, we highlight why and how inadvertent errors of sampling by historians could threaten the reliability of historical research and the findings of studies using quantitative historical data.</em> </p></details>
         </li></ul>
 
-<ul><li> Plagues, Wars and Wages in Late Medieval Normandy, with <a href="https://cedricchambru.github.io/">Cédric Chambru (ENS Lyon)</a>
+<ul><li> Plagues, Wars and Wages in Late Medieval Normandy, with <a href="https://cedricchambru.github.io/">Cédric Chambru</a>
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
         <em>This paper examines the evolution of wages in late medieval Normandy (1300-1600), a region deeply impacted by demographic and geopolitical shocks of the time. In Normandy, the Black Death and the plague of 1361, coupled with the Hundred Years War between England and France, created a complex environment characterised by demographic decline, economic disruption, and changing labor markets. For instance, the effect of the occupation of Normandy by English troops between 1417-9 and 1450 is quite uncertain. While the English occupation likely drove up food prices, it also generated demand for skilled labour to (re)-construct fortifications. We use newly assembled data on wages and prices to estimate series of nominal wages for daily rural and urban skilled and unskilled male labourers. We further analyse tax data to derive population estimates at the parish level to understand how demographic changes contributed to shape wage dynamics during the fifteenth century. Overall, we found that nominal wages remained stable until the beginning of the sixteenth century (c. 1520s) before significantly increasing during French War of Religions. While the urban premium for skilled labourers remained stable at 50 percent over the period, we do not obersve such a difference for unskilled labour-- a pattern already higlighted for the decades prior to the Industrial Revolution. Preliminary estimates of the Consumer Price Index (CPI) display similar long-run trends but demonstrate much higher year-to-year variability. For the early fifteenth century, our findings diverge from the commonly observed inverse U-shaped pattern of real wages observed elsewhere in Europe. This discrepancy may be attributed to the unique combination of factors affecting Normandy during this period. To refine our estimates and analysis, we are currently working to collect additional quotes for daily wages as well as data on yearly wages for male labourers, enabling a more comprehensive comparison with wage trends in other European regions.</em> </p></details>
         </li></ul>
         
-<ul><li> Cultivating Trust? The Role of European Union Investments in Bridging Rural-Urban Divides, with <a href="https://sites.google.com/view/leoazzollini/">Leo Azzollini (University of Oxford)</a> and <a href="https://sites.google.com/site/amjeannet/home"> Anne-Marie Jeannet (University of Milan)</a>
+<ul><li> Cultivating Trust? The Role of European Union Investments in Bridging Rural-Urban Divides, with <a href="https://sites.google.com/view/leoazzollini/">Leo Azzollini</a> and <a href="https://sites.google.com/site/amjeannet/home"> Anne-Marie Jeannet</a>
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
@@ -63,7 +63,7 @@ To do so, we rely on the work of the HiSCoD project (Historical Social Conflict 
       <ul><li><em>Revise Resubmit, Electoral Studies</em></li></ul>        
       </li></ul>
 
-<ul><li> Industrial Exposure, Deindustrialization, and their Political Effects from the New Deal to the 21st Century, with <a href="https://sites.google.com/site/amjeannet/home"> Anne-Marie Jeannet (University of Milan)</a>
+<ul><li> Industrial Exposure, Deindustrialization, and their Political Effects from the New Deal to the 21st Century, with <a href="https://sites.google.com/site/amjeannet/home"> Anne-Marie Jeannet</a>
 <details>
       <summary>[Abstract]</summary>
       <p align="justify">
@@ -71,6 +71,6 @@ To do so, we rely on the work of the HiSCoD project (Historical Social Conflict 
 </em> </p></details>
         </li></ul>
 
-<ul><li> The Making of Physicians: Social Origins of 18th-Century University of Caen Graduates,  with <a href="https://www.researchgate.net/profile/Xavier-Humbert-2"> Xavier Humbert (University of Caen Normandy)</a>
+<ul><li> The Making of Physicians: Social Origins of 18th-Century University of Caen Graduates,  with <a href="https://www.researchgate.net/profile/Xavier-Humbert-2"> Xavier Humbert</a>
         </li></ul>
 
