@@ -12,4 +12,4 @@ Raw data are available in csv format in the [Github repository](https://github.c
 For more details on the construction of the database, please see the [data paper](https://doi.org/10.1017/S000305542300076X).  
 
 ### Primary Schools in Early Modern Normandy 
-I am currently working on a new database project by collecting data on primary schools at the parish level in the long run (1300-1800). The aim is to provide a better understanding of the development of elementary school networks and contribute to the long-standing debate on the role of education in economic development during the pre-industrial era. 
+I am currently working on a new database project by collecting data on primary schools at the parish level (1300-1800). The aim is to provide a better understanding of the development of elementary school networks and contribute to the long-standing debate on the role of education in economic development during the pre-industrial era. 
