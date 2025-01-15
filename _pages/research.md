@@ -85,4 +85,16 @@ To do so, we rely on the work of the HiSCoD project (Historical Social Conflict 
 
 - « L’Amour Interdit : femmes et clercs dans le registre d’Eudes Rigaud (1248-1269) », Être Femme(s) en Normandie, Congrès de la Fédération des Sociétés historiques et Archéologiques de Normandie, Bellême, 2014, p. 469-476. [Link](https://www.dropbox.com/s/q2nebk61151cdql/maneuvrier-hervieu_amour_interdit_femmes_pretres_2014.pdf?dl=0).
 
+### Book Reviews 
+
+- ["Les Européens et les Antilles, XVIIe siècle-début XVIIIe siècle"](https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/article/bernard-michon-dir-les-europeens-et-les-antilles-xviie-siecledebut-xviiie-siecle-rennes-pur-2019-246-p/DDA22509F1F77E18AFBA4808AF0EE4E8) by Bernard Michon (dir.), published in Annales, Histoire, Sciences Sociales, 2021/4 (76e année), p. 847-849.
+
+- ["Cul-de-Sac. Patrimony, Capitalism and Slavery in French Saint-Domingue"](https://www.cairn.info/revue-histoire-et-societes-rurales-2018-1-page-199.htm) by Paul Cheney, published in Histoire & Sociétés Rurales, n°49, 1er semestre, 2018. 
+
+- ["The Country People of Guernesey and their Agriculture 1640-1840"](https://www.cairn.info/revue-annales-de-normandie-2017-1-page-149.htm) by Richard Hocart, published in Annales de Normandie, n°67, 1er semestre 2017.
+
+- ["La guerre des forêts. Luttes sociales dans l'Angleterre du XVIIIe siècle"](https://www.cairn.info/revue-histoire-et-societes-rurales-2015-1-page-149.htm) by Edward P. Thompson, published in Histoire & Sociétés Rurales, n°43, 1er semestre 2015.
+
+- ["Le Grand Ferré. Premier Héros paysan"](https://www.cairn.info/revue-histoire-et-societes-rurales-2013-2-page-155.htm?try_download=1) by Colette Beaune, published in Histoire & Sociétés Rurales, n°40, 2e semestre 2013, p. 182-184.
+
 
