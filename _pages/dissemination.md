@@ -29,4 +29,9 @@ author_profile: false
 
 - In 2023, I participated to the catalogue of a temporary exhibition that took place in the museums of Normandy (Rouen, Le Havre and Honfleur) entitled "Esclavages, mémoires normandes". This exhibition has been recognized as being of national interest by the French Ministry of culture. [Link](https://esclavage-memoires-normandes.fr/)
 
+### Interviews
+- In November 2022, I was interviewed by Ouest-France to talk about my PhD dissertation and a conference I presented for the association Maisons Paysannes de France. [Link](https://www.ouest-france.fr/normandie/saint-pierre-en-auge-14170/saint-pierre-en-auge-la-normandie-au-xviiie-siecle-n-etait-pas-que-rurale-et-agricole-052851ec-6266-11ed-988e-462e4b8b6d96)
+- In August 2021, I was interviewed by Ouest-France to talk about the HiSCoD project. [Link](https://www.ouest-france.fr/normandie/caen-14000/entretien-hiscod-la-base-de-donnees-sur-les-emeutes-developpee-a-caen-d995b80e-003b-11ec-89f6-98e781273c08)
+
+
 
