@@ -19,9 +19,9 @@ author_profile: true
 - I am currently working on book manuscript based on my dissertation. Provisional title: _Across Seas and Countryside: an Environmental and Economic History of Normandy (1300-1850)_ My PhD dissertation is available online [Link](https://tel.archives-ouvertes.fr/tel-03195999). 
   
 ### Book Chapters 
-- Maneuvrier-Hervieu, Paul, and [François, Rivière](https://cv.hal.science/francois-riviere) (2025). Les mondes de la production en France, _Nouvelle Histoire Économique et Sociale de la France_, (eds. Pierre-Cyril Hautcoeur and Catherine Virlouvet), Passés Composés. Forthcoming, September 2025.
+- Maneuvrier-Hervieu, Paul, and [Cédric, Chambru](https://cedricchambru.github.io/) (2025). Working Time, Holidays, and Labour Conditions in Early Modern Normandy, _A Historical Casebook of Wage Formation: Wage Determination and wage bargains of the pre industrial world_, (eds. Luca Mocarelli, Giulio Ongaro and Judy Stephenson). Forthcoming 2025. [Working paper](https://hal.science/hal-04630438/)
   
-- Maneuvrier-Hervieu, Paul, and [Cédric, Chambru](https://cedricchambru.github.io/) (2025). Working Time, Holidays, and Labour Conditions in Early Modern Normandy, _A Historical Casebook of Wage Formation: Wage Determination and wage bargains of the pre industrial world_, (eds. Luca Mocarelli, Giulio Ongaro and Judy Stephenson). Forthcoming 2025.
+- Maneuvrier-Hervieu, Paul, and [François, Rivière](https://cv.hal.science/francois-riviere) (2025). Les mondes de la production en France, _Nouvelle Histoire Économique et Sociale de la France_, (eds. Pierre-Cyril Hautcoeur and Catherine Virlouvet), Passés Composés. Forthcoming, September 2025.
   
 - [Anne, Bocquet-Liénard](https://cv.hal.science/anne-bocquet-lienard), Patricia, Moitrel, Paul, Maneuvrier-Hervieu, et. al. (2025), Le Sucre en Normandie : commerce, sites de transformations et ustensiles de raffinage en céramique du XVIe au milieu du XIXe siècle, _Les céramiques de raffinage du sucre du XVIe au XIXe siècle. Productions, circulations et contextes d'usages dans l'espace transatlantique français_, (dir. Sébastien Pauly), Presses Universitaires de Caen. Forthcoming, 2025.
   
