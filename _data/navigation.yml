@@ -1,24 +1,18 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/    
+    url: /research/   
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Data"
+    url: /data/
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Conferences"
-    url: /talks/
   
-  - title: "Media"
-    url: /media/
-
-  - title: "Dissemination of Research"
+  - title: "Research Dissemination"
     url: /dissemination/
     
   - title: "Contact"
