@@ -14,6 +14,9 @@ author_profile: true
 - Maneuvrier-Hervieu, Paul (2018). Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves, _Annales de Normandie_, 68(1), pp. 113-137. doi: [10.3917/annor.681.0113]( https://doi.org/10.3917/annor.681.0113)
   
 - Maneuvrier-Hervieu, Paul (2017). La Révolution française vue et vécue par un villageois du Pays de Caux, _Histoire & Sociétés Rurales_, 47(1), pp. 137-180. doi: [10.3917/hsr.047.0137](https://doi.org/10.3917/hsr.047.0137)
+
+### Monograph
+- I am currently working on book manuscript based on my dissertation. Provisional title: _Across Seas and Countryside: an Environmental and Economic History of Normandy (1300-1850)_ My PhD dissertation is available online [Link](https://tel.archives-ouvertes.fr/tel-03195999). 
   
 ### Book Chapters 
 - Maneuvrier-Hervieu, Paul, and [François, Rivière](https://cv.hal.science/francois-riviere) (2025). Les mondes de la production en France, _Nouvelle Histoire Économique et Sociale de la France_, (eds. Pierre-Cyril Hautcoeur and Catherine Virlouvet), Passés Composés. Forthcoming, September 2025.
@@ -29,7 +32,6 @@ author_profile: true
 - Maneuvrier-Hervieu, Paul and [Carole, Dornier](https://obtic.huma-num.fr/obvil-web/obvil/annuaire/carole-dornier) (2018). « Écrits sur la famine », _Écrits sur l’économie, les finances et la fiscalité, in Les écrits de l’abbé Castel de Saint-Pierre_, (ed. Carole Dornier),  Presses universitaires de Caen (Fontes & Paginæ – Sources modernes), doi: [10.51203/sources.puc.000094](https://doi.org/10.51203/sources.puc.000094)
 
 ### Work in progress
-
 <ul><li> Trade Shocks and Political Behaviours in Revolutionary Normandy, with <a href="https://cedricchambru.github.io/">Cédric Chambru</a>
 <details>
       <summary>[Abstract]</summary>
