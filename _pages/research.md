@@ -74,3 +74,15 @@ To do so, we rely on the work of the HiSCoD project (Historical Social Conflict 
 <ul><li> The Making of Physicians: Medical Graduates of the University of Caen in Early Modern Normandy,  with <a href="https://www.researchgate.net/profile/Xavier-Humbert-2"> Xavier Humbert</a>
         </li></ul>
 
+
+### Other publications
+
+- Les campagnes normandes dans l’économie Atlantique au 18e siècle, Historiens & Géographes, dossier n°459, août 2022. [Link](https://www.aphg.fr/Les-campagnes-normandes-dans-l-economie-Atlantique-au-18e-siecle).
+
+- Mars 1789 : les « Normands ont la parole ». La mise par écrit des cahiers de doléances, in Bulletin de la Société Historique et Archéologique de Lisieux, n°84, 2e semestre 2017. [Link](http://www.societehistoriquedelisieux.fr/?p=7339).
+
+- Les Normands dans la « Guerre du blé » au XVIIIe siècle, Les Normands et la guerre. Actes du 49e Congrès de la Fédération des Sociétés Historiques et Archéologiques, Rouen, 15-18 octobre 2014, Textes réunis par Bernard Bodinier, Louviers, 2015, FSHAN, p. 175-183. [Link](https://www.dropbox.com/s/6c0et5mx9jujlco/maneuvrier-hervieu_normands_guerre_du_ble_2015.pdf?dl=0).
+
+- « L’Amour Interdit : femmes et clercs dans le registre d’Eudes Rigaud (1248-1269) », Être Femme(s) en Normandie, Congrès de la Fédération des Sociétés historiques et Archéologiques de Normandie, Bellême, 2014, p. 469-476. [Link](https://www.dropbox.com/s/q2nebk61151cdql/maneuvrier-hervieu_amour_interdit_femmes_pretres_2014.pdf?dl=0).
+
+
