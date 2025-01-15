@@ -20,7 +20,7 @@ In 2021, I received the AFHE-BNP Paribas prize awarded by the French Economic Hi
 
 Prior to joining the University of Milan to work on a ERC project, I worked at the University of Geneva and at the University of Caen where I obtained my PhD in 2020. I have also been a visiting researcher at the University of Chicago.
 
-I am also a waterpolo player and and an e-sport fan. 
+I am also a waterpolo player and an e-sport fan. 
 
 <br>**Research interests**: Economic history; Living standards; Atlantic history; Medieval history; Industrialization; Living standards; Political economy; Deindustrialization; Archeology
 
