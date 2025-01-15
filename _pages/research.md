@@ -14,7 +14,7 @@ author_profile: true
 - Maneuvrier-Hervieu, Paul (2018). Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves, _Annales de Normandie_, 68(1), pp. 113-137. doi: [10.3917/annor.681.0113]( https://doi.org/10.3917/annor.681.0113)
   
 - Maneuvrier-Hervieu, Paul (2017). La Révolution française vue et vécue par un villageois du Pays de Caux, _Histoire & Sociétés Rurales_, 47(1), pp. 137-180. doi: [10.3917/hsr.047.0137](https://doi.org/10.3917/hsr.047.0137)
-
+  
 ### Book Chapters 
 - Maneuvrier-Hervieu, Paul, and [François, Rivière](https://cv.hal.science/francois-riviere) (2025). Les mondes de la production en France, _Nouvelle Histoire Économique et Sociale de la France_, (eds. Pierre-Cyril Hautcoeur and Catherine Virlouvet), Passés Composés. Forthcoming, September 2025.
   
