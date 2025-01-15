@@ -71,6 +71,6 @@ To do so, we rely on the work of the HiSCoD project (Historical Social Conflict 
 </em> </p></details>
         </li></ul>
 
-<ul><li> The Making of Physicians: Social Origins of 18th-Century University of Caen Graduates,  with <a href="https://www.researchgate.net/profile/Xavier-Humbert-2"> Xavier Humbert</a>
+<ul><li> The Making of Physicians: Medical Graduates of the University of Caen in Early Modern Normandy,  with <a href="https://www.researchgate.net/profile/Xavier-Humbert-2"> Xavier Humbert</a>
         </li></ul>
 
