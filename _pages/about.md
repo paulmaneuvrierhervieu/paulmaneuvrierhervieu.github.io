@@ -14,7 +14,7 @@ redirect_from:
 
 <br>**Research interests**: Economic history; Living standards; Atlantic history; Medieval history; Industrialization; Living standards; Political Science; Deindustrialization; Archeology
 
-In my publications, I contribute to the literature on the consequences of economic development by analysing the evolution of living standards from the Middle Ages to the 19th century. I also investigate the social and political consequences of the Eden Treaty, signed between France and England in 1786 and considered as the first free trade agreement. 
+In my research, I contribute to the literature on the consequences of economic development by analysing the evolution of living standards from the Middle Ages to the 19th century. I also investigate the social and political consequences of the Eden Treaty, signed between France and England in 1786 and considered as the first free trade agreement. 
 
 An important part of my research also focuses on historical social conflicts. In 2020, I released with [Cédric Chambru](https://cedricchambru.github.io/) the Historical Social Conflict Database [HiSCoD](https://www.unicaen.fr/hiscod/). This database is designed to provide to academic researcher and general public a set of resources for analysing social conflict from the Middle Ages to the 19th century. In its current form it documents more than 20,000 episodes of social conflict for France, England, Germany, Italy, Spain, and more).
 
