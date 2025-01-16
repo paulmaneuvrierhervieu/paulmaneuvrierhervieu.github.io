@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Publications 
 - [Cédric, Chambru](https://cedricchambru.github.io/) and Maneuvrier-Hervieu, Paul (2024). Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict, _American Polticial Science Review_, 118(2), pp. 1084-1091, doi: [10.1017/S000305542300076X](https://doi.org/10.1017/S000305542300076X). [[Website](https://mrsh.unicaen.fr/hiscod/accueil.html)] [[Raw data](https://github.com/hiscod/hiscod-project)] [[Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HGFLGK)]
-<strong>Media coverage:</strong> <a href="https://www.lemonde.fr/idees/article/2021/05/20/deux-siecles-de-revoltes-populaires-decryptees-le-gilet-jaune-se-porte-depuis-bien-longtemps_6080797_3232.html">Le Monde</a> and <a href="https://www.ouest-france.fr/normandie/caen-14000/entretien-hiscod-la-base-de-donnees-sur-les-emeutes-developpee-a-caen-d995b80e-003b-11ec-89f6-98e781273c08">Ouest-France</a>
+<em>Media coverage:</em> <a href="https://www.lemonde.fr/idees/article/2021/05/20/deux-siecles-de-revoltes-populaires-decryptees-le-gilet-jaune-se-porte-depuis-bien-longtemps_6080797_3232.html">Le Monde</a> and <a href="https://www.ouest-france.fr/normandie/caen-14000/entretien-hiscod-la-base-de-donnees-sur-les-emeutes-developpee-a-caen-d995b80e-003b-11ec-89f6-98e781273c08">Ouest-France</a>
  
 - [Cédric, Chambru](https://cedricchambru.github.io/) and Maneuvrier-Hervieu, Paul (2023). The Evolution of Wages in Early Modern Normandy (1600-1850), _The Economic History Review_, 76(3), pp. 917-940. doi:[10.1093/ereh/heac017](https://doi.org/10.1093/ereh/heac017)
   
@@ -18,7 +18,7 @@ author_profile: true
 - Maneuvrier-Hervieu, Paul (2017). La Révolution française vue et vécue par un villageois du Pays de Caux, _Histoire & Sociétés Rurales_, 47(1), pp. 137-180. doi: [10.3917/hsr.047.0137](https://doi.org/10.3917/hsr.047.0137)
 
 ### Monograph
-- I am currently working on book manuscript based on my dissertation. Provisional title: _Across Seas and Countryside: an Environmental and Economic History of Normandy (1300-1850)_ My PhD dissertation is available online [Link](https://tel.archives-ouvertes.fr/tel-03195999). 
+- I am currently working on book manuscript based on my dissertation. Provisional title: _Across Seas and Countryside: an Environmental and Economic History of Normandy (1300-1850)_ My PhD dissertation is available online at [Link](https://tel.archives-ouvertes.fr/tel-03195999). 
   
 ### Book Chapters 
 - Maneuvrier-Hervieu, Paul, and [Cédric, Chambru](https://cedricchambru.github.io/) (2025). Working Time, Holidays, and Labour Conditions in Early Modern Normandy, _A Historical Casebook of Wage Formation: Wage Determination and wage bargains of the pre industrial world_, (eds. Luca Mocarelli, Giulio Ongaro and Judy Stephenson). Forthcoming 2025. [[Working paper](https://hal.science/hal-04630438/)]
