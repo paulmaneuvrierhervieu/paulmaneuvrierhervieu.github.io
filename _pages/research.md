@@ -25,11 +25,11 @@ author_profile: true
   
 - Maneuvrier-Hervieu, Paul, and [François, Rivière](https://cv.hal.science/francois-riviere) (2025). Les mondes de la production en France, _Nouvelle Histoire Économique et Sociale de la France_, (eds. Pierre-Cyril Hautcoeur and Catherine Virlouvet), Passés Composés. Forthcoming, September 2025.
   
-- [Anne, Bocquet-Liénard](https://cv.hal.science/anne-bocquet-lienard), Patricia, Moitrel, Paul, Maneuvrier-Hervieu, et. al. (2025), Le Sucre en Normandie : commerce, sites de transformations et ustensiles de raffinage en céramique du XVIe au milieu du XIXe siècle, _Les céramiques de raffinage du sucre du XVIe au XIXe siècle. Productions, circulations et contextes d'usages dans l'espace transatlantique français_, (dir. Sébastien Pauly), Presses Universitaires de Caen. Forthcoming, 2025.
+- [Anne, Bocquet-Liénard](https://cv.hal.science/anne-bocquet-lienard), Moitrel, Patricia, Paul, Maneuvrier-Hervieu, et. al. (2025), Le Sucre en Normandie : commerce, sites de transformations et ustensiles de raffinage en céramique du XVIe au milieu du XIXe siècle, _Les céramiques de raffinage du sucre du XVIe au XIXe siècle. Productions, circulations et contextes d'usages dans l'espace transatlantique français_, (dir. Sébastien Pauly), Presses Universitaires de Caen. Forthcoming, 2025.
   
 - Maneuvrier-Hervieu, Paul (2023). La Normandie, porte d'ouverture privilégiée pour l'économie atlantique, _Les ports normands dans la traite atlantique (XVe-XXIe siècles), (dir. Eric Saunier), Silvana Editoriale,  pp. 121-134.
   
-- Maneuvrier-Hervieun, Paul, and [Cédric, Chambru](https://cedricchambru.github.io/) (2021). Les révoltes populaires en Aquitaine dans la base de données HiSCoD, _Les révoltes populaires en Aquitaine de la fin du Moyen Âge à nos jours, (dir. Alexandre Fernandez, Jean-Pierre Lefèvre, Pierre Robin), éditions d'Albret, pp. 21-34.
+- Maneuvrier-Hervieun, Paul, and [Cédric, Chambru](https://cedricchambru.github.io/) (2021). Les révoltes populaires en Aquitaine dans la base de données HiSCoD, _Les révoltes populaires en Aquitaine de la fin du Moyen Âge à nos jours_, (dir. Alexandre Fernandez, Jean-Pierre Lefèvre, Pierre Robin), éditions d'Albret, pp. 21-34.
   
 - Maneuvrier-Hervieu, Paul and [Carole, Dornier](https://obtic.huma-num.fr/obvil-web/obvil/annuaire/carole-dornier) (2018). « Écrits sur la famine », _Écrits sur l’économie, les finances et la fiscalité, in Les écrits de l’abbé Castel de Saint-Pierre_, (ed. Carole Dornier),  Presses universitaires de Caen (Fontes & Paginæ – Sources modernes), doi: [10.51203/sources.puc.000094](https://doi.org/10.51203/sources.puc.000094)
 
