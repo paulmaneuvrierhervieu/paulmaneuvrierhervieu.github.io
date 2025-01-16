@@ -11,6 +11,7 @@ redirect_from:
 
 
 <br>I am currently a postdoctoral researcher in economic history and political science at the [University of Milan](https://www.unimi.it/en/ugov/person/paul-maneuvrier). 
+
 <br>**Research interests**: Economic history; Living standards; Atlantic history; Medieval history; Industrialization; Living standards; Political economy; Deindustrialization; Archeology
 
 In my publications, I contribute to the literature on the consequences of economic development by analysing the evolution of living standards from the Middle Ages to the 19th century. I also investigate the social and political consequences of the Eden Treaty, signed between France and England in 1786 and considered as the first free trade agreement. 
