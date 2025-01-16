@@ -12,7 +12,7 @@ author_profile: false
 ### TV Documentary
 - 2023: Historical consultant for the TV documentary realized by Thierry Durand on the history of slavery in Normandy. This TV documentary entitled "Le souvenir dans la peau, esclavage en terre normande" was broadcasted the 19th October 2023 on France 3 Normandie and is available on replay [Link](https://www.france.tv/france-3/normandie/la-france-en-vrai-normandie/5311947-le-souvenir-dans-la-peau-esclavage-en-terre-normande.html).
 
-#### Podcasts
+### Podcasts
 - In March 2022, I was invited by Baptsite Martin for the radio "Cause Commune" to talk about my work on the economic history of Normandy. You can listen the podcast [here](https://cause-commune.fm/podcast/histoire-en-roue-libre-30/).
 - In December 2020, I was invited by the Jérôme Rouzaire for the AEDAA (Association des étudiants et diplômés en archivistique d'Angers) to talk about the HiSCoD project. You can listen the podcast [here](https://aedaa.fr/2020/12/podcast-n3-du-fonds-de-larchive-decembre-2020/).
 
