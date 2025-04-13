@@ -11,6 +11,7 @@ Download my full CV in [French](https://www.dropbox.com/scl/fi/lhyrr5o02wyo3bixg
 
 ## Current Position
 * [Postdoctoral Researcher](https://www.unimi.it/it/ugov/person/paul-maneuvrier) on the ERC project [DESPO](https://sites.google.com/site/amjeannet/erc-stg-despo), University of Milan, La Statale, Department of Political and Social Sciences. Since September 2020.
+* Visiting Researcher, Maison de la Recherche en Sciences Humaines, University of Caen Normandy
 
 ## Previous Positions
 * University of Geneva, Department of History, Economics and Society, teaching assistant and associate researcher at the Paul Bairoch Institute of Economic History, 2018-2020.
