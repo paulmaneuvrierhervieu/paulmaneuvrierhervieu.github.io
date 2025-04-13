@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<br>I am currently a postdoctoral researcher in economic history and political science at the [University of Milan](https://www.unimi.it/en/ugov/person/paul-maneuvrier). 
+<br>I am currently a postdoctoral researcher in economic history and political science at the [University of Milan](https://www.unimi.it/en/ugov/person/paul-maneuvrier) for the ERC project [DESPO](https://cordis.europa.eu/project/id/853033) (De-industrializing Societies and the Political Consequences) and a visiting researcher at the Maison de la Recherche en Sciences Humaines, University of Caen Normandy.
 
 <br>**Research interests**: Economic history; Living standards; Atlantic history; Medieval history; Industrialization; Living standards; Political Science; Deindustrialization; Archeology
 
@@ -22,7 +22,7 @@ In 2021, I received the AFHE-BNP Paribas prize awarded by the French Economic Hi
 
 Prior to joining the University of Milan to work on a ERC project, I worked at the University of Geneva and at the University of Caen where I obtained my PhD in 2020. I have also been a visiting researcher at the University of Chicago.
 
-I am also a waterpolo player and an e-sport fan. 
+I am also a waterpolo player and I love spending time outdoors, roaming the valleys of Normandy birdwatching or the mountains of Italy. 
 
 
 
