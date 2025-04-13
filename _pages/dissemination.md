@@ -4,7 +4,7 @@ title: "Dissemination of Research"
 permalink: /dissemination/
 author_profile: false
 ---
-### Upcoming Public conferences
+### Last Public conferences
 - 25 March 2025: "Les docteurs en médecine de l'Université de Caen au XVIIIe siècle", with Xavier Humbert. Public conference organized by the city of Caen to celebrate the millenium of the city of Caen, France. 
 - 4 February 2025: "La Normandie dans l'Economie Atlantique", public conference for the "Association des Villes de France (AVF)", Caen, France. 
 - 25 January 2025: "Travailler en Normandie du Moyen Âge à la Révolution française : conditions de travail, salaires, conflits", Public conference for the association "Maisons paysannes de France", Saint-Pierre-sur-Dives, France.
