@@ -12,11 +12,11 @@ redirect_from:
 
 <br>I am currently a postdoctoral researcher in economic history and political science at the [University of Milan](https://www.unimi.it/en/ugov/person/paul-maneuvrier) for the ERC project [DESPO](https://cordis.europa.eu/project/id/853033) (De-industrializing Societies and the Political Consequences) and a visiting researcher at the Maison de la Recherche en Sciences Humaines, University of Caen Normandy.
 
-<br>**Research interests**: Economic history; Living standards; Atlantic history; Medieval history; Industrialization; Living standards; Political Science; Deindustrialization; Archeology
+<br>**Research interests**: Economic history; Political Science; Deindustrialization; International Trade; Economic Development; Living standards; Atlantic history; Medieval history; Industrialization; Archeology
 
-In my research, I contribute to the literature on the consequences of economic development by analysing the evolution of living standards from the Middle Ages to the 19th century. I also investigate the social and political consequences of the Eden Treaty, signed between France and England in 1786 and considered as the first free trade agreement. 
+My research explores the long-term consequences of economic development by analyzing the evolution of living standards from the Middle Ages through the 19th century. I also examine the social and political impact of the 1786 Eden Treaty—considered the first free trade agreement—signed between France and England in 1786.
 
-An important part of my research also focuses on historical social conflicts. In 2020, I released with [Cédric Chambru](https://cedricchambru.github.io/) the Historical Social Conflict Database [HiSCoD](https://www.unicaen.fr/hiscod/). This database is designed to provide to academic researcher and general public a set of resources for analysing social conflict from the Middle Ages to the 19th century. In its current form it documents more than 20,000 episodes of social conflict for France, England, Germany, Italy, Spain, and more).
+A significant part of my work focuses on historical social conflicts. In 2020, together with [Cédric Chambru](https://cedricchambru.github.io/), I launched the Historical Social Conflict Database [(HiSCoD)](https://www.unicaen.fr/hiscod/). Designed for both academic researchers and the general public, HiSCoD offers a comprehensive set of resources for studying social unrest from the Middle Ages to the 19th century. The current version includes over 20,000 recorded episodes of conflict across France, England, Germany, Italy, Spain, and other regions.
 
 In 2021, I received the AFHE-BNP Paribas prize awarded by the French Economic History Association (AFHE) for the best dissertation in economic history. 
 
