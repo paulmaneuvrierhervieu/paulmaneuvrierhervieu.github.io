@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+Download my full CV in [French](https://www.dropbox.com/scl/fi/lhyrr5o02wyo3bixg8135/cv_maneuvrier_hervieu_2025_french.pdf?rlkey=8fqjdr5mnm5gj3719943905f3&st=y0yi6cy2&dl=0) or in [English](https://www.dropbox.com/scl/fi/gika9etyef40bqfqja45h/cv_2025_maneuvrier_hervieu_english.pdf?rlkey=ciey7ib26ujrycbpdkzdum95r&st=kgtdhltu&dl=0)
 
 ## Current Position
 * [Postdoctoral Researcher](https://www.unimi.it/it/ugov/person/paul-maneuvrier) on the ERC project [DESPO](https://sites.google.com/site/amjeannet/erc-stg-despo), University of Milan, La Statale, Department of Political and Social Sciences. Since September 2020.
