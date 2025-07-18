@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Paul Maneuvrier-Hervieu"
 title_separator          : "-"
 name                     : &name "Paul Maneuvrier-Hervieu"
-description              : "Personal website of Paul Maneuvrier-Hervieu, postdoctoral researcher at the University of Milan, department of Political and Social Sciences"
+description              : "Personal website of Paul Maneuvrier-Hervieu, Associate Professor at the University of Paris 8, department of Economics"
 url                      : https://paulmaneuvrierhervieu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paulmaneuvrierhervieu/paulmaneuvrierhervieu.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "pmaneuvre"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Paul Maneuvrier-Hervieu"
   avatar           : "photo_maneuvrier.jpg"
-  bio              : "Postdoctoral Reseacher in Social Sciences and Economic History"
-  location         : "University of Milan (Italy)"
+  bio              : "Associate Professor in Economic History"
+  location         : "University of Paris 8 (France)"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=bIYaZIUAAAAJ&hl=fr"
