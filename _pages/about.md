@@ -10,7 +10,7 @@ redirect_from:
 
 <br>I'm thrilled to announce that this September I'll be joining the Economics Department and the [LED](https://sites.google.com/site/up8led/) at the University of Paris 8 as an Associate Professor in economic history!
 
-<br>Prior to joining the University of Paris 8, I was a postdoctoral researcher at the [University of Milan](https://www.unimi.it/en/ugov/person/paul-maneuvrier) for the ERC project [DESPO](https://cordis.europa.eu/project/id/853033) (De-industrializing Societies and the Political Consequences), I also worked at the University of Geneva and at the University of Caen where I obtained my PhD in 2020. I have also been a visiting researcher at the University of Chicago.
+Prior to joining the University of Paris 8, I was a postdoctoral researcher at the [University of Milan](https://www.unimi.it/en/ugov/person/paul-maneuvrier) for the ERC project [DESPO](https://cordis.europa.eu/project/id/853033) (De-industrializing Societies and the Political Consequences), I also worked at the University of Geneva and at the University of Caen where I obtained my PhD in 2020. I have also been a visiting researcher at the University of Chicago.
 
 <br>**Research interests**: Economic history; Political Science; Deindustrialization; International Trade; Economic Development; Living standards; Atlantic history; Medieval history; Industrialization; Archeology
 
