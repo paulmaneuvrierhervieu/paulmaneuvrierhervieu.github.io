@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<br>I'm thrilled to announce that this September I'll be joining the Economics Department and the [LED](https://sites.google.com/site/up8led/) at the University of Paris 8 as an Associate Professor in economic history!
 
-
-<br>I am currently a postdoctoral researcher in economic history and political science at the [University of Milan](https://www.unimi.it/en/ugov/person/paul-maneuvrier) for the ERC project [DESPO](https://cordis.europa.eu/project/id/853033) (De-industrializing Societies and the Political Consequences) and a visiting researcher at the Maison de la Recherche en Sciences Humaines, University of Caen Normandy.
+<br>Prior to joining the University of Paris 8, I was a postdoctoral researcher at the [University of Milan](https://www.unimi.it/en/ugov/person/paul-maneuvrier) for the ERC project [DESPO](https://cordis.europa.eu/project/id/853033) (De-industrializing Societies and the Political Consequences), I also worked at the University of Geneva and at the University of Caen where I obtained my PhD in 2020. I have also been a visiting researcher at the University of Chicago.
 
 <br>**Research interests**: Economic history; Political Science; Deindustrialization; International Trade; Economic Development; Living standards; Atlantic history; Medieval history; Industrialization; Archeology
 
@@ -20,9 +20,7 @@ A significant part of my work focuses on historical social conflicts. In 2020, t
 
 In 2021, I received the AFHE-BNP Paribas prize awarded by the French Economic History Association (AFHE) for the best dissertation in economic history. 
 
-Prior to joining the University of Milan to work on a ERC project, I worked at the University of Geneva and at the University of Caen where I obtained my PhD in 2020. I have also been a visiting researcher at the University of Chicago.
-
-I am also a waterpolo player and I love spending time outdoors, roaming the valleys of Normandy birdwatching or the mountains of Italy. 
+I am also a waterpolo player and I love spending time outdoors, roaming the valleys of Normandy birdwatching. 
 
 
 
