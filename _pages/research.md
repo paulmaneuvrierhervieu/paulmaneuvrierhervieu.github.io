@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 ### Publications 
+- Paul Maneuvrier-Hervieu, [Leo Azzollini](https://sites.google.com/view/leoazzollini/), and [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/home) (2025). Cultivating Trust? The Role of European Union Investments in Bridging Rural-Urban Divides, _Electoral Studies_, 98, doi: [10.1016/j.electstud.2025.102987](https://doi.org/10.1016/j.electstud.2025.102987)
+
 - [Cédric, Chambru](https://cedricchambru.github.io/) and Maneuvrier-Hervieu, Paul (2024). Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict, _American Polticial Science Review_, 118(2), pp. 1084-1091, doi: [10.1017/S000305542300076X](https://doi.org/10.1017/S000305542300076X). [[Website](https://mrsh.unicaen.fr/hiscod/accueil.html)] [[Raw data](https://github.com/hiscod/hiscod-project)] [[Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HGFLGK)]
 <em>Media coverage:</em> <a href="https://www.lemonde.fr/idees/article/2021/05/20/deux-siecles-de-revoltes-populaires-decryptees-le-gilet-jaune-se-porte-depuis-bien-longtemps_6080797_3232.html">Le Monde</a> and <a href="https://www.ouest-france.fr/normandie/caen-14000/entretien-hiscod-la-base-de-donnees-sur-les-emeutes-developpee-a-caen-d995b80e-003b-11ec-89f6-98e781273c08">Ouest-France</a>
  
@@ -34,13 +36,6 @@ author_profile: true
 - Maneuvrier-Hervieu, Paul and [Carole, Dornier](https://obtic.huma-num.fr/obvil-web/obvil/annuaire/carole-dornier) (2018). « Écrits sur la famine », _Écrits sur l’économie, les finances et la fiscalité, in Les écrits de l’abbé Castel de Saint-Pierre_, (ed. Carole Dornier),  Presses universitaires de Caen (Fontes & Paginæ – Sources modernes), doi: [10.51203/sources.puc.000094](https://doi.org/10.51203/sources.puc.000094)
 
 ### Work in progress
-<ul><li> Cultivating Trust? The Role of European Union Investments in Bridging Rural-Urban Divides, with <a href="https://sites.google.com/view/leoazzollini/">Leo Azzollini</a> and <a href="https://sites.google.com/site/amjeannet/home"> Anne-Marie Jeannet</a>
-<details>
-      <summary>[Abstract]</summary>
-      <p align="justify">
-        <em>Over the last decades, agricultural policies and structural investment funds for regional development have been central to European integration. However, the political effects of these funds, designed to enhance economic and social cohesion within the European Union and address regional disparities, remain contested. Existing research has established that rural residents tend to exhibit lower levels of political trust in the European Union compared to their urban counterparts. In this paper, we empirically examine whether institutional investments can mitigate the urban-rural divide in political trust toward the European Union. Specifically, we explore the potential of EU funds to enhance trust by fostering regional economic dynamics, and whether this is socially stratified. Analyzing 17 waves of Eurobarometer data (2003-2020) across 27 European countries, 99 regions, and around 370,000 individuals, we find that the rural-urban divide tends to be mitigated in regions receiving higher levels of investment. Moreover, we observe that EU investments disproportionately predict higher trust among individuals from middle to lower socioeconomic strata compared to those from upper strata, narrowing the gap at higher levels of investment (15 to 18 % of a standard deviation). Examining the intersection of rural-urban and socio-economic divides, we observe that EU funds are more likely to predict higher trust amongst individuals from lower social strata, and the lowest trust among those from upper social strata. Our results imply that European institutional investment can reduce the gap between urban and rural residents due to the differences in the socio-demographic composition of these places.</em> </p> </details>
-      <ul><li><em>Conditionally accepted, Electoral Studies</em></li></ul>        
-      </li></ul>
 
 <ul><li> Trade Shocks and Political Behaviours in Revolutionary Normandy, with <a href="https://cedricchambru.github.io/">Cédric Chambru</a>
 <details>
