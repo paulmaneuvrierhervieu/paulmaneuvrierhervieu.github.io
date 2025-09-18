@@ -5,19 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 ### Publications 
-- Paul Maneuvrier-Hervieu, [Leo Azzollini](https://sites.google.com/view/leoazzollini/), and [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/home) (2025). Cultivating Trust? The Role of European Union Investments in Bridging Rural-Urban Divides, _Electoral Studies_, 98, doi: [10.1016/j.electstud.2025.102987](https://doi.org/10.1016/j.electstud.2025.102987)
+- [6] Paul Maneuvrier-Hervieu, [Leo Azzollini](https://sites.google.com/view/leoazzollini/), and [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/home) (2025). Cultivating Trust? The Role of European Union Investments in Bridging Rural-Urban Divides, _Electoral Studies_, 98, doi: [10.1016/j.electstud.2025.102987](https://doi.org/10.1016/j.electstud.2025.102987)
 
-- [Cédric, Chambru](https://cedricchambru.github.io/) and Maneuvrier-Hervieu, Paul (2024). Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict, _American Polticial Science Review_, 118(2), pp. 1084-1091, doi: [10.1017/S000305542300076X](https://doi.org/10.1017/S000305542300076X). [[Website](https://mrsh.unicaen.fr/hiscod/accueil.html)] [[Raw data](https://github.com/hiscod/hiscod-project)] [[Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HGFLGK)]
+- [5] [Cédric, Chambru](https://cedricchambru.github.io/) and Maneuvrier-Hervieu, Paul (2024). Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict, _American Polticial Science Review_, 118(2), pp. 1084-1091, doi: [10.1017/S000305542300076X](https://doi.org/10.1017/S000305542300076X). [[Website](https://mrsh.unicaen.fr/hiscod/accueil.html)] [[Raw data](https://github.com/hiscod/hiscod-project)] [[Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HGFLGK)]
 <em>Media coverage:</em> <a href="https://www.lemonde.fr/idees/article/2021/05/20/deux-siecles-de-revoltes-populaires-decryptees-le-gilet-jaune-se-porte-depuis-bien-longtemps_6080797_3232.html">Le Monde</a> and <a href="https://www.ouest-france.fr/normandie/caen-14000/entretien-hiscod-la-base-de-donnees-sur-les-emeutes-developpee-a-caen-d995b80e-003b-11ec-89f6-98e781273c08">Ouest-France</a>
  
-- [Cédric, Chambru](https://cedricchambru.github.io/) and Maneuvrier-Hervieu, Paul (2023). The Evolution of Wages in Early Modern Normandy (1600-1850), _The Economic History Review_, 76(3), pp. 917-940. doi:[10.1093/ereh/heac017](https://doi.org/10.1093/ereh/heac017)
+- [4] [Cédric, Chambru](https://cedricchambru.github.io/) and Maneuvrier-Hervieu, Paul (2023). The Evolution of Wages in Early Modern Normandy (1600-1850), _The Economic History Review_, 76(3), pp. 917-940. doi:[10.1093/ereh/heac017](https://doi.org/10.1093/ereh/heac017)
   
-- Maneuvrier-Hervieu, Paul (2021). La Normandie dans l'économie atlantique au XVIIIe siècle. production, commerce et crises, _Annales Historiques de la Révolution française_, 406(4),pp. 203-214. [Link](https://www.revues.armand-colin.com/histoire/annales-historiques-revolution-francaise/annales-historiques-revolution-francaise-no406-42021/normandie-leconomie-atlantique-au-xviiie-siecle).
+- [3] Maneuvrier-Hervieu, Paul (2021). La Normandie dans l'économie atlantique au XVIIIe siècle. production, commerce et crises, _Annales Historiques de la Révolution française_, 406(4),pp. 203-214. [Link](https://www.revues.armand-colin.com/histoire/annales-historiques-revolution-francaise/annales-historiques-revolution-francaise-no406-42021/normandie-leconomie-atlantique-au-xviiie-siecle).
 <em>Media coverage:</em> <a href="https://www.ouest-france.fr/normandie/saint-pierre-en-auge-14170/saint-pierre-en-auge-la-normandie-au-xviiie-siecle-n-etait-pas-que-rurale-et-agricole-052851ec-6266-11ed-988e-462e4b8b6d96">Ouest-France</a> and Podcast: [Cause commune Radio](https://cause-commune.fm/podcast/histoire-en-roue-libre-30/)
   
-- Maneuvrier-Hervieu, Paul (2018). Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves, _Annales de Normandie_, 68(1), pp. 113-137. doi: [10.3917/annor.681.0113]( https://doi.org/10.3917/annor.681.0113)
+- [2] Maneuvrier-Hervieu, Paul (2018). Entre Honfleur et les Antilles : les journaux de bord de la traite des esclaves, _Annales de Normandie_, 68(1), pp. 113-137. doi: [10.3917/annor.681.0113]( https://doi.org/10.3917/annor.681.0113)
   
-- Maneuvrier-Hervieu, Paul (2017). La Révolution française vue et vécue par un villageois du Pays de Caux, _Histoire & Sociétés Rurales_, 47(1), pp. 137-180. doi: [10.3917/hsr.047.0137](https://doi.org/10.3917/hsr.047.0137)
+- [1] Maneuvrier-Hervieu, Paul (2017). La Révolution française vue et vécue par un villageois du Pays de Caux, _Histoire & Sociétés Rurales_, 47(1), pp. 137-180. doi: [10.3917/hsr.047.0137](https://doi.org/10.3917/hsr.047.0137)
 
 ### Monograph
 - I am currently working on book manuscript based on my dissertation. Provisional title: _Across Seas and Countryside: an Environmental and Economic History of Normandy (1300-1850)_ My PhD dissertation is available online at [Link](https://tel.archives-ouvertes.fr/tel-03195999). 
