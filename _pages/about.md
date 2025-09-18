@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<br>I am an Associate Professor (Maître de conférences) at the Department of Economics at the [University of Paris 8](https://www.univ-paris8.fr/) and a member of the [LED](https://sites.google.com/site/up8led/).
+<br>I am an Associate Professor (Maître de conférences) at the Department of Economics at the [University of Paris 8](https://www.univ-paris8.fr/) and a member of the Dionysian Economics Lab [LED](https://sites.google.com/site/up8led/).
 
 Prior to joining the University of Paris 8, I was a postdoctoral researcher at the [University of Milan](https://www.unimi.it/en/ugov/person/paul-maneuvrier) for the ERC project [DESPO](https://cordis.europa.eu/project/id/853033) (De-industrializing Societies and the Political Consequences), I also worked at the University of Geneva and at the University of Caen where I obtained my PhD in 2020. I have also been a visiting researcher at the University of Chicago.
 
