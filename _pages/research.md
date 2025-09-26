@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 ### Publications 
-- [6] Paul Maneuvrier-Hervieu, [Leo Azzollini](https://sites.google.com/view/leoazzollini/), and [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/home) (2025). Cultivating Trust? The Role of European Union Investments in Bridging Rural-Urban Divides, _Electoral Studies_, 98, doi: [10.1016/j.electstud.2025.102987](https://doi.org/10.1016/j.electstud.2025.102987)
+-  [7] Paul Maneuvrier-Hervieu, [Leo Azzollini](https://sites.google.com/view/leoazzollini/), and [Anne-Marie Jeannet](https://sites.google.com/site/amjeannet/home) (2025). Cultivating Trust? The Role of European Union Investments in Bridging Rural-Urban Divides, _Electoral Studies_, 98, doi: [10.1016/j.electstud.2025.102987](https://doi.org/10.1016/j.electstud.2025.102987)
+
+- [6] Paul Maneuvrier-Hervieu and [Xavier Humber](https://www.researchgate.net/profile/Xavier-Humbert-2) (2025). Sudden unexpected death in post-traumatic convulsions: An historical case report from the late 18th century, _Neurochirurgie_, 71-6, doi: [10.1016/j.neuchi.2025.101724](https://doi.org/10.1016/j.neuchi.2025.101724)
 
 - [5] [Cédric, Chambru](https://cedricchambru.github.io/) and Maneuvrier-Hervieu, Paul (2024). Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict, _American Polticial Science Review_, 118(2), pp. 1084-1091, doi: [10.1017/S000305542300076X](https://doi.org/10.1017/S000305542300076X). [[Website](https://mrsh.unicaen.fr/hiscod/accueil.html)] [[Raw data](https://github.com/hiscod/hiscod-project)] [[Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HGFLGK)]
 <em>Media coverage:</em> <a href="https://www.lemonde.fr/idees/article/2021/05/20/deux-siecles-de-revoltes-populaires-decryptees-le-gilet-jaune-se-porte-depuis-bien-longtemps_6080797_3232.html">Le Monde</a> and <a href="https://www.ouest-france.fr/normandie/caen-14000/entretien-hiscod-la-base-de-donnees-sur-les-emeutes-developpee-a-caen-d995b80e-003b-11ec-89f6-98e781273c08">Ouest-France</a>
