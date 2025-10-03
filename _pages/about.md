@@ -13,7 +13,9 @@ redirect_from:
 Prior to joining the University of Paris 8, I was a postdoctoral researcher at the [University of Milan](https://www.unimi.it/en/ugov/person/paul-maneuvrier) for the ERC project [DESPO](https://cordis.europa.eu/project/id/853033) (De-industrializing Societies and the Political Consequences), I also worked at the University of Geneva and at the University of Caen where I obtained my PhD in 2020. I have also been a visiting researcher at the University of Chicago.
 
 <br>**What's new?**: 
+
 Happy to announce the publication of my latest paper in Electoral Studies entitled "Cultivating Trust? The Role of European Union Investments in Bridging Rural-Urban Divides" [(doi)](https://doi.org/10.1016/j.electstud.2025.102987)
+
 
 <br>**Research interests**: Economic history; Political Science; Deindustrialization; International Trade; Economic Development; Living standards; Atlantic history; Medieval history; Industrialization; Archeology
 
