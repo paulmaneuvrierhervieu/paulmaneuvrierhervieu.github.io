@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-#### Current teaching 
+# Current teaching 
 
 ### Histoire politique, économique et sociale 
 Undergraduate course, University of Paris 8, department of Economics
@@ -20,7 +20,7 @@ Undergraduate course, University of Paris 8, department of Economics
 Undergraduate course, University of Paris 8, department of Economics
 - The course is an introduction to history of economic thought. 
 
-#### Previous teaching
+# Previous teaching
 
 ### Histoire économique générale : des origines à nos jours
 Undergraduate course, University of Geneva (Fall 2018 and Fall 2019)
