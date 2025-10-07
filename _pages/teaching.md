@@ -7,17 +7,17 @@ author_profile: true
 # Current teaching 
 
 ### Histoire politique, économique et sociale 
-Undergraduate course, University of Paris 8, department of Economics
+Undergraduate course (lecture), University of Paris 8, department of Economics
 - The course is an introduction to economic history.
   
-### Macroeconomics 1
-Undergraduate course, University of Paris 8, department of Economics
+### Macroéconomie 1
+Undergraduate course (lecture), University of Paris 8, department of Economics
 
 ### Sociologie Historique du Capitalisme 
-Undergraduate course, University of Paris 8, department of Economics
+Undergraduate course (lecture and tutorials), University of Paris 8, department of Economics
 
 ### Grands textes de l'économie 
-Undergraduate course, University of Paris 8, department of Economics
+Undergraduate course (lecture), University of Paris 8, department of Economics
 - The course is an introduction to history of economic thought. 
 
 # Previous teaching
